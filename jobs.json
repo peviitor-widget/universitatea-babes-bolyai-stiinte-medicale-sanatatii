@@ -1,22 +1,5 @@
 [
   {
-    "url": "https://reo-medical.ro/cariere/inginer-service/",
-    "title": "Service Engineer",
-    "company": "REO MEDICAL APARATURĂ MEDICALĂ SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:47:38.157Z",
-    "status": "scraped",
-    "tags": [
-      "Electronică medicală",
-      "Inginerie biomedicală"
-    ],
-    "matchPercentage": 72,
-    "reason": "Service engineer pentru aparatură de recuperare medicală robotizată. Potrivi direct cu cunoștințele de electronică medicală, aparatură medicală și inginerie biomedicală dobândite în planul de învățământ."
-  },
-  {
     "url": "https://www.leohr.ro/jobs/profesor-de-fizica-pentru-gimnaziu/141/",
     "title": "Profesor de Fizica pentru gimnaziu",
     "company": "LEOHR S.R.L.",
@@ -24,14 +7,182 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:44:26.352Z",
+    "date": "2026-09-17T13:09:24.662Z",
     "status": "scraped",
     "tags": [
       "Predare fizică",
       "Fizică mecanică"
     ],
     "matchPercentage": 85,
-    "reason": "Predarea fizicii în învățământul gimnazial este unul dintre domeniile mele de competență directă. Pregătirea în fizică mecanică, termodinamică, electromagnetism și optică este perfect relevantă."
+    "reason": "Predarea fizicii în învățământ este un domeniu direct vizat de competențele tale din planul de învățământ."
+  },
+  {
+    "url": "https://reo-medical.ro/cariere/inginer-service/",
+    "title": "Service Engineer",
+    "company": "REO MEDICAL APARATURĂ MEDICALĂ SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:04:52.590Z",
+    "status": "scraped",
+    "tags": [
+      "Electronică și aparatură medicală",
+      "Inginerie biomedicală"
+    ],
+    "matchPercentage": 55,
+    "reason": "Service și mentenanță aparatură medicală de recuperare; se aliniază cu electronică, aparatură medicală și inginerie biomedicală, potrivit pt. junior."
+  },
+  {
+    "url": "https://cariere.reginamaria.ro/company/regina-maria-1/jobs/asistent-medical-radiologie-dental",
+    "title": "Asistent Medical Radiologie Dental",
+    "company": "REGINA MARIA - BANCA CENTRALĂ DE CELULE STEM S.A.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:07:48.439Z",
+    "status": "scraped",
+    "tags": [
+      "Imagistică medicală",
+      "Dozimetrie"
+    ],
+    "matchPercentage": 55,
+    "reason": "Implica imagistica medicala, protejarea pacientului si utilizarea echipamentelor de imagistica, dar necesita calificare de asistent medical"
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/asistent-medical-radiologie-spitalul-de-ortopedie-medlife/1979566",
+    "title": "Asistent Medical Radiologie - Spitalul de Ortopedie MedLife",
+    "company": "GRIGORE MEDLIFE S.R.L.",
+    "location": [
+      "București, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-15T13:12:01.569Z",
+    "status": "scraped",
+    "tags": [
+      "Imagistică medicală",
+      "Dozimetrie"
+    ],
+    "matchPercentage": 55,
+    "reason": "Rol de asistent in radiologie, implică cunoștințe de imagistică medicală și protecție radiologică"
+  },
+  {
+    "url": "https://cariere.reginamaria.ro/company/regina-maria-1/jobs/asistent-medical-radiologie-1",
+    "title": "Asistent Medical Radiologie",
+    "company": "REGINA MARIA - BANCA CENTRALĂ DE CELULE STEM S.A.",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-14T14:50:17.763Z",
+    "status": "scraped",
+    "tags": [
+      "Imagistică medicală",
+      "Dozimetrie"
+    ],
+    "matchPercentage": 55,
+    "reason": "Pregătirea pacienților pentru investigații radiologice, utilizarea aparaturii, protecție radiologică"
+  },
+  {
+    "url": "https://multijobs.ro/job/asistent-radiologie/5497",
+    "title": "Asistent Radiologie",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Ploiesti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T12:01:02.356Z",
+    "status": "scraped",
+    "tags": [
+      "Imagistică medicală",
+      "Dozimetrie"
+    ],
+    "matchPercentage": 50,
+    "reason": "Job în radiologie, potrivit parțial cu competențele de imagistică medicală și protecție radiologică"
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-medical-asistent-radiologie-11",
+    "title": "Asistent medical/ Asistent radiologie",
+    "company": "CMI DR. MOHOREA AIDA SRL",
+    "location": [
+      "Strada Popa Sapca 20b, Timișoara 300057, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T11:59:33.313Z",
+    "status": "scraped",
+    "tags": [
+      "Imagistică medicală"
+    ],
+    "matchPercentage": 50,
+    "reason": "Rol de asistent radiologie în cabinet stomatologic, implică imagistică medicală"
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3358574",
+    "title": "ASISTENT MEDICAL RADIOLOGIE",
+    "company": "DEXA DIAGNOSTIC S.R.L.",
+    "location": [
+      "Ploiesti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T11:57:49.688Z",
+    "status": "scraped",
+    "tags": [
+      "Imagistică medicală",
+      "Dozimetrie"
+    ],
+    "matchPercentage": 55,
+    "reason": "Asistă medicul în investigații imagistice, respectă normele de radioprotecție"
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3317757",
+    "title": "ASISTENT MEDICAL RADIOLOGIE",
+    "company": "DEXA DIAGNOSTIC S.R.L.",
+    "location": [
+      "Ploiesti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T11:57:09.691Z",
+    "status": "scraped",
+    "tags": [
+      "Imagistică medicală",
+      "Dozimetrie"
+    ],
+    "matchPercentage": 55,
+    "reason": "Pregătirea pacientului, poziționare, norme de radioprotecție, monitorizare"
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-medical-radiologie-sectia-radioterapie-2",
+    "title": "ASISTENT MEDICAL RADIOLOGIE - SECTIA RADIOTERAPIE",
+    "company": "CENTRUL MEDICAL MEDINVEST SRL",
+    "location": [
+      "Ramnicu Valcea, Romania,Bacau, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T11:56:30.106Z",
+    "status": "scraped",
+    "tags": [
+      "Dozimetrie",
+      "Fizică medicală"
+    ],
+    "matchPercentage": 60,
+    "reason": "Radioterapie implică fizică medicală, dozimetrie și protecție radiologică - domenii cheie din planul de învățământ"
+  },
+  {
+    "url": "https://jobviewtrack.com/v2/fIVn4QVcf-uTQRQy7UWdSaayNMp5QiuAGFjzVn3MPM4zmqBdrgnVKMcnnxCb_DXDZ1-WjD6381t4c0NBN2d_uEF3brZ0YmpvFZT94109EgMzx_Gxj8F9hSfbc_eyrGiJ8GiMRVCtwEKViBc9s3wzEUzre9i02MmN5Goxp_jJFXFJRHOryH4vsZOdqz2zeuLarf2nvO11yRz4V2myuPQmuwxIKC-VNzjOsdaEbhHH7eA",
+    "title": "Asistent Medical Radiologie",
+    "company": "DARIUS CONSULTING SRL",
+    "location": [
+      "Galati, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T11:49:07.710Z",
+    "status": "scraped",
+    "tags": [
+      "Imagistică medicală"
+    ],
+    "matchPercentage": 50,
+    "reason": "Rol de asistent în radiologie, aliniat parțial cu competențele de imagistică medicală"
   },
   {
     "url": "https://cariere.reginamaria.ro/company/regina-maria-1/jobs/tehnician-radioterapie",
@@ -41,65 +192,99 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:49:47.235Z",
+    "date": "2026-09-17T13:07:48.439Z",
     "status": "scraped",
     "tags": [
-      "Dozimetrie și protecție radiologică",
+      "Fizică medicală",
+      "Dozimetrie"
+    ],
+    "matchPercentage": 70,
+    "reason": "Colaborare cu fizicienii medicali, evaluarea calității în radioterapie, radioprotecție - potrivire puternică cu fizica medicală și dozimetria"
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/asistent-medical-radioterapie/1983710",
+    "title": "Asistent medical RADIOTERAPIE",
+    "company": "GRAL MEDICAL SRL",
+    "location": [
+      "Bucuresti,Ilfov, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T11:48:15.188Z",
+    "status": "scraped",
+    "tags": [
+      "Dozimetrie",
       "Fizică medicală"
     ],
-    "matchPercentage": 25,
-    "reason": "Postul de tehnician în radioterapie poate beneficia de cunoștințele tale de dozimetrie, protecție radiologică și fizică medicală. Totuși, postul cere probabil certificare specifică de tehnician medical pe care nu o deții."
+    "matchPercentage": 55,
+    "reason": "Specializare în radioterapie, implică cunoștințe de dozimetrie și protecție radiologică"
   },
   {
-    "url": "https://www.teamland.ro/apply.php?id=1183#content",
-    "title": "Coordonator mentenanta echipamente medicale",
-    "company": "TEAMLAND SRL",
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/asistent-medical-radiologie-radioterapie-medeuropa-oradea/1980592",
+    "title": "Asistent medical radiologie - radioterapie MedEuropa Oradea",
+    "company": "MEDEUROPA SRL",
     "location": [
-      "Bucuresti, Romania"
+      "Oradea, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:48:02.612Z",
+    "date": "2026-08-25T08:57:40.423Z",
     "status": "scraped",
     "tags": [
-      "Electronică și aparatură medicală",
-      "Fizica semiconductorilor"
-    ],
-    "matchPercentage": 75,
-    "reason": "Mentenanță echipamente medicale. Pregătirea în electronică și aparatură medicală este direct relevantă pentru întreținerea și repararea echipamentelor medicale."
-  },
-  {
-    "url": "https://www.teamland.ro/apply.php?id=1250#content",
-    "title": "Coordonator mentenanta echipamente medicale",
-    "company": "TEAMLAND SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:47:04.465Z",
-    "status": "scraped",
-    "tags": [
-      "Electronică și aparatură medicală",
-      "Fizica semiconductorilor"
-    ],
-    "matchPercentage": 75,
-    "reason": "Mentenanță echipamente medicale. Pregătirea în electronică și aparatură medicală este direct relevantă pentru întreținerea și repararea echipamentelor medicale."
-  },
-  {
-    "url": "https://www.teamland.ro/apply.php?id=1258#content",
-    "title": "Inginer proiectare si dezvoltare scule si dispozitive",
-    "company": "TEAMLAND SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:47:04.465Z",
-    "status": "scraped",
-    "tags": [
-      "Electronică și aparatură medicală",
-      "Optoelectronică și fotonică"
+      "Dozimetrie",
+      "Radioprotecție"
     ],
     "matchPercentage": 55,
-    "reason": "Proiectare dispozitive. Competențele în electronică, optoelectronică și biorobotică oferă o bază, dar rolul pare mai degrabă industrial decât medical."
+    "reason": "Radioterapie și radiologie, implică dozimetrie și protecție radiologică"
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-medical-radiologie-sectia-radioterapie-1",
+    "title": "ASISTENT MEDICAL RADIOLOGIE - SECTIA RADIOTERAPIE",
+    "company": "CENTRUL MEDICAL MEDINVEST SRL",
+    "location": [
+      "Ramnicu Valcea, Romania,Bacau, Romania"
+    ],
+    "salary": null,
+    "date": "2026-08-21T08:54:29.093Z",
+    "status": "scraped",
+    "tags": [
+      "Dozimetrie",
+      "Fizică medicală"
+    ],
+    "matchPercentage": 60,
+    "reason": "Radioterapie cu accent pe dozimetrie și protecție radiologică, potrivire bună"
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/engineer-electrical-i-c",
+    "title": "Engineer – Electrical &amp; I&amp;C",
+    "company": "ROPOWER NUCLEAR S.A.",
+    "location": [
+      "București, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T11:50:17.787Z",
+    "status": "scraped",
+    "tags": [
+      "Fizica nucleului",
+      "Electronică"
+    ],
+    "matchPercentage": 68,
+    "reason": "Poziție de inginer în companie nucleară (I&C, parte electrică); se potrivește cu fizica nucleului și electronică, formare în radioactivitate utilă."
+  },
+  {
+    "url": "https://cariere.reginamaria.ro/company/regina-maria-1/jobs/tehnician-medicina-nucleara",
+    "title": "Tehnician Medicina Nucleara",
+    "company": "REGINA MARIA - BANCA CENTRALĂ DE CELULE STEM S.A.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-16T13:19:56.740Z",
+    "status": "scraped",
+    "tags": [
+      "Fizica nucleului si medicina nucleara",
+      "Dozimetrie si protectie radiologica"
+    ],
+    "matchPercentage": 92,
+    "reason": "Potrivire excelenta: gestionarea radiofarmaceuticelor, operarea echipamentelor de medicina nucleara si radioprotectia sunt exact competentele din planul tau de invatamant. Rolul de tehnician e accesibil unui junior."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/specialist-de-aplicatii-dispozitive-medicale-3",
@@ -113,10 +298,10 @@
     "status": "scraped",
     "tags": [
       "Electronică și aparatură medicală",
-      "Radiologie și imagistică medicală"
+      "Inginerie biomedicală"
     ],
-    "matchPercentage": 80,
-    "reason": "Aplicații dispozitive medicale în Cluj-Napoca. Pregătirea în electronică și aparatură medicală, radiologie și imagistică medicală este direct aplicabilă pentru instruirea utilizării dispozitivelor medicale."
+    "matchPercentage": 60,
+    "reason": "Specialist aplicatii dispozitive medicale - potrivit formarii in electronica si aparatura medicala si inginerie biomedicala, inclusiv in Cluj-Napoca."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/inginer-service-junior-echipamente-medicale-1",
@@ -130,27 +315,10 @@
     "status": "scraped",
     "tags": [
       "Electronică și aparatură medicală",
-      "Protecție radiologică"
+      "Inginerie biomedicală"
     ],
-    "matchPercentage": 85,
-    "reason": "Inginer service junior pentru echipamente medicale. Rolul este ideal pentru profilul meu: electronică și aparatură medicală, fizica semiconductorilor, protecție radiologică. Nivelul junior se potrivește cu experiența de student."
-  },
-  {
-    "url": "https://jobs.zollner.ro/jobposting/200cf519cd47080273854a74b5851a118191051b0",
-    "title": "Tehnician electronică",
-    "company": "ZES ZOLLNER ELECTRONIC SRL",
-    "location": [
-      "Satu Mare, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:46:52.184Z",
-    "status": "scraped",
-    "tags": [
-      "Electronică și aparatură medicală",
-      "Fizica semiconductorilor"
-    ],
-    "matchPercentage": 70,
-    "reason": "Tehnician electronică în producție electronică (EMS). Competențele în electronică și aparatură medicală, fizica semiconductorilor și optoelectronică sunt direct transferabile."
+    "matchPercentage": 75,
+    "reason": "Inginer service junior pe echipamente medicale - potrivire buna cu electronica si aparatura medicala, nivel junior adecvat."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/222109/JumpStart---A-GenZ-Career-Hub/Programe-de-internship-trainee-sau-joburi-entry-level-in-Inginerie",
@@ -163,45 +331,10 @@
     "date": "2026-09-05T11:53:52.398Z",
     "status": "scraped",
     "tags": [
-      "Electronică și aparatură medicală",
-      "Programare calculatoare"
+      "Inginerie biomedicală"
     ],
-    "matchPercentage": 60,
-    "reason": "Hub de cariere cu oportunități de internship/trainee entry-level. Poate include poziții relevante pentru profilul meu de fizică medicală și electronică."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3367180",
-    "title": "CONDUCATOR AUTOSPECIALA",
-    "company": "REGIA AUTONOMĂ TEHNOLOGII PENTRU ENERGIA NUCLEARĂ - RATEN PITEŞTI SUCURSALA CENTRUL DE INGINERIE TEHNOLOGICĂ OBIECTIVE NUCLEARE BUCUREŞTI MĂGURELE CITON",
-    "location": [
-      "Mioveni, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T11:43:56.823Z",
-    "status": "scraped",
-    "tags": [
-      "Fizica nucleului",
-      "Dozimetrie și protecție radiologică"
-    ],
-    "matchPercentage": 40,
-    "reason": "Conducător auto la Regia Autonomă Tehnologii pentru Energia Nucleară. Institutul este în domeniul nuclear, ceea ce se leagă de fizica nucleului și medicina nucleară, dar rolul efectiv este de conducător auto, nu tehnic."
-  },
-  {
-    "url": "https://multijobs.ro/job/specialist-achizitii-in-domeniul-medical/3075",
-    "title": "Specialist  achizitii in domeniul medical",
-    "company": "IMAGISTICĂ NUCLEARĂ S.R.L.",
-    "location": [
-      "Iași, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T12:01:33.050Z",
-    "status": "scraped",
-    "tags": [
-      "Imagistică medicală",
-      "Aparatură medicală"
-    ],
-    "matchPercentage": 55,
-    "reason": "Compania IMAGISTICĂ NUCLEARĂ S.R.L. activează în imagistică medicală și medicină nucleară, domenii în care ai pregătire directă. Achiziții echipamente medicale necesită cunoștințe despre aparatură medicală, dozimetrie și protecție radiologică - domenii tale."
+    "matchPercentage": 35,
+    "reason": "Platforma de internshipuri si joburi entry-level in inginerie - relevanta ca sursa de oportunitati pentru un junior, chiar daca rolurile sunt variate."
   },
   {
     "url": "https://cariere.reginamaria.ro/company/regina-maria-1/jobs/sales-advisor-magazin-optica-8",
@@ -211,48 +344,13 @@
       "Cluj-Napoca, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:45:43.659Z",
+    "date": "2026-09-17T13:05:36.848Z",
     "status": "scraped",
     "tags": [
-      "Optică",
-      "Optometrie"
-    ],
-    "matchPercentage": 45,
-    "reason": "Ai competențe în optică și optometrie din planul de învățământ. Lucrul într-un magazin de optică presupune cunoștințe despre lentile, ochelari, refracție - domenii acoperite de studiile tale."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/muncitor-revizii-si-verificari-ct-qzw556",
-    "title": "MUNCITOR REVIZII ȘI VERIFICĂRI CT",
-    "company": "E.ON ASIST COMPLET S.A.",
-    "location": [
-      "Constanta, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T11:54:11.939Z",
-    "status": "scraped",
-    "tags": [
-      "Detectoare de radiații",
-      "Electronică medicală"
+      "Optică"
     ],
     "matchPercentage": 55,
-    "reason": "Verificări și revizii CT (Computer Tomograf). E.ON activează în domeniul energetic dar acest post pare să fie de mentenanță tehnică echipamente CT. Cunoștințele de fizică medicală, detectoare de radiații și electronică medicală oferă o bază relevantă, dar lipsa calificărilor specifice de tehnicianmedical limitează potrivirea."
-  },
-  {
-    "url": "https://multijobs.ro/job/muncitor-revizii-si-verificari-ct-constanta/5048",
-    "title": "Muncitor Revizii și Verificări CT – Constanța",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Constanta, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T11:53:33.408Z",
-    "status": "scraped",
-    "tags": [
-      "Detectoare de radiații",
-      "Electronică medicală"
-    ],
-    "matchPercentage": 55,
-    "reason": "Muncitor revizii și verificări CT. Post de mentenanță/dispecerizare echipamente CT la Multidata. Cunoștințele de fizică medicală, electronică și aparatură medicală sunt relevante, dar lipsa calificării de tehnicianmedical reduce scorul."
+    "reason": "Consiliere în alegerea lentilelor și ramelor – folosești direct cunoștințele de optică și optometrie, în context medical."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/asistent-medical-imagistica-ct-rmn-targoviste",
@@ -268,8 +366,8 @@
       "Radiologie și imagistică medicală",
       "Dozimetrie și protecție radiologică"
     ],
-    "matchPercentage": 60,
-    "reason": "Asistent medical radiologie CT-RMN. Pregătirea în radiologie, imagistică medicală, dozimetrie și protecție radiologică este direct relevantă. Necesită studii de asistent medical (nu fizician), dar cunoștințele de fizică medicală oferă un avantaj semnificativ."
+    "matchPercentage": 55,
+    "reason": "Domeniul imagisticii medicale (CT/RMN) se potriveste cu formarea ta, dar postul presupune studii de asistent medical radiologie."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/reprezentant-medical-ct-bz-tl-gl-br-cl",
@@ -282,45 +380,11 @@
     "date": "2026-09-05T11:40:58.675Z",
     "status": "scraped",
     "tags": [
-      "Limba străină de specialitate",
-      "Anatomia omului"
+      "Anatomia și fiziologia omului",
+      "Biofizică și biochimie"
     ],
-    "matchPercentage": 40,
-    "reason": "Reprezentant medical - implică promovarea produselor medicale. Cunoștințele de fizică medicală și terminologia de specialitate sunt utile, dar rolul este comercial/vânzări, nu tehnic."
-  },
-  {
-    "url": "https://www.iajob.ro/locuri-de-munca/0p0y5b",
-    "title": "MUNCITOR REVIZII SI VERIFICARI CT",
-    "company": "E.ON ASIST COMPLET S.A.",
-    "location": [
-      "Constanta, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-04T12:51:22.249Z",
-    "status": "scraped",
-    "tags": [
-      "Detectoare de radiații",
-      "Electronică medicală"
-    ],
-    "matchPercentage": 55,
-    "reason": "Similar postului #7 - revizii și verificări CT. Baza de cunoștințe în fizică medicală și electronică medicală este relevantă."
-  },
-  {
-    "url": "https://www.iajob.ro/locuri-de-munca/vqed0d",
-    "title": "MUNCITOR REVIZII SI VERIFICARI CT",
-    "company": "E.ON ASIST COMPLET S.A.",
-    "location": [
-      "Constanta, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-04T12:50:59.473Z",
-    "status": "scraped",
-    "tags": [
-      "Detectoare de radiații",
-      "Electronică medicală"
-    ],
-    "matchPercentage": 55,
-    "reason": "Din nou revizii CT la E.ON. Potrivire moderată datorită cunoștințelor de fizică medicală și echipamente medicale."
+    "matchPercentage": 45,
+    "reason": "Vanzari in domeniul medical; cunostintele de anatomie/fiziologie si biochimie pot ajuta, dar rolul este comercial."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3356339",
@@ -336,8 +400,8 @@
       "Radiologie și imagistică medicală",
       "Dozimetrie și protecție radiologică"
     ],
-    "matchPercentage": 65,
-    "reason": "Tehnician de radiologie și imagistică - operare CT, pregătire pacienți, radioprotecție. Pregătirea în radiologie, imagistică medicală, dozimetrie și protecție radiologică este foarte relevantă. Licența în fizică medicală oferă cunoștințe solide despre funcționarea echipamentelor CT."
+    "matchPercentage": 60,
+    "reason": "Operare CT si radioprotectie, direct pe competentele tale; necesita insa licenta de tehnician radiologie."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3358594",
@@ -351,10 +415,10 @@
     "status": "scraped",
     "tags": [
       "Radiologie și imagistică medicală",
-      "Protecție radiologică"
+      "Dozimetrie și protecție radiologică"
     ],
-    "matchPercentage": 60,
-    "reason": "Asistent medical în radiologie. Necesită studii de asistent medical, dar cunoștințele de fizică medicală, imagistică și protecție radiologică oferă un fundament solid pentru înțelegerea echipamentelor și a procedurilor."
+    "matchPercentage": 55,
+    "reason": "Domeniul radiologiei/imagisticii este relevant, dar postul cere calificare de asistent medical."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/252711/Memorial-Romania/Imagistica(RX,Mamografii,RMN)",
@@ -368,10 +432,10 @@
     "status": "scraped",
     "tags": [
       "Radiologie și imagistică medicală",
-      "Fizica nucleului"
+      "Electronică și aparatură medicală"
     ],
-    "matchPercentage": 50,
-    "reason": "Post în imagistică medicală (RX, Mamografii, RMN) la spitalul Memorial. Cunoștințele de fizică medicală, radiologie și imagistică medicală sunt relevante, dar jobul pare a fi de operator/tehnician care necesită calificare medicală specifică."
+    "matchPercentage": 55,
+    "reason": "Departament de imagistica (RX, mamografii, RMN) - domeniul se potrivește cu formarea in imagistica medicala."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/operator-rmn-asistent-rаdiologie-si-imagisticа-mеdicаlа/1980313",
@@ -385,125 +449,60 @@
     "status": "scraped",
     "tags": [
       "Radiologie și imagistică medicală",
-      "Dozimetrie"
+      "Bioelectromagnetism"
     ],
-    "matchPercentage": 65,
-    "reason": "Operator RMN și asistent de radiologie/imagistică medicală. Necesită studii medii în specialitatea de radiologie și imagistică medicală. Pregătirea noastră în fizică medicală, RMN, imagistică medicală și dozimetrie este foarte relevantă pentru operarea echipamentelor RMN."
+    "matchPercentage": 60,
+    "reason": "Operare RMN, direct legat de imagistica medicala; studiile tale in fizica sunt un avantaj."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3369463",
-    "title": "AGENT DE VÂNZARI",
-    "company": "ECOGRAFIE 3D SRL",
-    "location": [
-      "Targu jiu, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-03T12:54:42.548Z",
-    "status": "scraped",
-    "tags": [
-      "Limba străină de specialitate",
-      "Imagistică medicală"
-    ],
-    "matchPercentage": 35,
-    "reason": "Agent de vânzări în domeniul medical (ecografie 3D). Cunoștințele de fizică medicală și imagistică oferă un avantaj pentru înțelegerea produselor, dar rolul este comercial."
-  },
-  {
-    "url": "https://www.antibiotice.ro/joburi/tehnician-mentenanta-electric/",
-    "title": "Tehnician Mentenanta – Electric",
-    "company": "ANTIBIOTICE SA",
-    "location": [
-      "Iași"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:56:00.149Z",
-    "status": "scraped",
-    "tags": [
-      "Electronica si aparatura medicala"
-    ],
-    "matchPercentage": 45,
-    "reason": "Mentenanta electrica intr-o fabrica farmaceutica - competentele de electronica si electrica sunt partial transferabile, dar lipsa experientei industriale si a cunostintelor specifice de automatizari reduc potrivirea"
-  },
-  {
-    "url": "https://cariere.reginamaria.ro/company/regina-maria-1/jobs/tehnician-dentar-1",
-    "title": "Tehnician Dentar",
-    "company": "REGINA MARIA - BANCA CENTRALĂ DE CELULE STEM S.A.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:49:47.235Z",
-    "status": "scraped",
-    "tags": [
-      "Optica si optometrie",
-      "Anatomia si fiziologia omului"
-    ],
-    "matchPercentage": 40,
-    "reason": "Tehnician dentar digital: design CAD, imprimante 3D, frezare - foloseste optica, modelare 3D si cunostinte de anatomie, dar necesita competente specifice dentare"
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/Automatist-Tehnician-Automatizări",
-    "title": "Automatist (Tehnician Automatizări)",
+    "url": "https://www.prohuman.ro/candidati/jobs/jobTehnicianinstrumentatieAMC",
+    "title": "Tehnician Instrumentație | AMC industria Petrolieră",
     "company": "PROHUMAN APT S.R.L.",
     "location": [
-      "Craiova, Romania"
+      "Brazi, Romania"
     ],
     "salary": null,
-    "date": "2026-09-10T12:49:46.017Z",
+    "date": "2026-09-17T13:11:14.963Z",
+    "status": "scraped",
+    "tags": [
+      "Electronică",
+      "Electromagnetism"
+    ],
+    "matchPercentage": 40,
+    "reason": "Instrumente de măsură și control, senzori; folosești electronică și electromagnetism."
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/AMCindustriaPetroliera",
+    "title": "Tehnician Instrumentație / AMC industria Petrolieră",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Brazi, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:10:10.046Z",
+    "status": "scraped",
+    "tags": [
+      "Electronică",
+      "Electromagnetism"
+    ],
+    "matchPercentage": 40,
+    "reason": "Instrumentație de măsură și control; relevante pentru electronică și electromagnetism."
+  },
+  {
+    "url": "https://jobs.hamilton.ch/en/job-posting/tehnician-cnc_jr-6142/",
+    "title": "Tehnician CNC",
+    "company": "HAMILTON IMPEX SRL",
+    "location": [
+      "Giarmata, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:09:50.258Z",
     "status": "scraped",
     "tags": [
       "Programare calculatoare",
-      "Electronica si aparatura medicala"
+      "Electronică"
     ],
-    "matchPercentage": 35,
-    "reason": "Automatizari industriale - partial relevant prin cunostintele de electronica si programare, dar lipsa experientei in SCADA/PLC reduce potrivirea"
-  },
-  {
-    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF82738U-p-14c71187bcff594d700d5c33077e4f70/tehnician-mentenanta-cttr",
-    "title": "Tehnician Mentenanta CTTR",
-    "company": "KALIBEN CONTINENTAL S.R.L.",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:49:39.627Z",
-    "status": "scraped",
-    "tags": [
-      "Electronica si aparatura medicala"
-    ],
-    "matchPercentage": 35,
-    "reason": "Mentenanta masini productie - partial relevant prin competentele de electronica, dar este mentenanta mecanica generala in industria auto"
-  },
-  {
-    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF90243I-p-14c71187bcff594d700d5c33077e4f70/tehnician-mentenanta-cttr",
-    "title": "Tehnician Mentenanta CTTR",
-    "company": "KALIBEN CONTINENTAL S.R.L.",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:49:39.627Z",
-    "status": "scraped",
-    "tags": [
-      "Electronica si aparatura medicala"
-    ],
-    "matchPercentage": 35,
-    "reason": "Mentenanta masini productie - partial relevant prin competentele de electronica, dar este mentenanta mecanica generala in industria auto"
-  },
-  {
-    "url": "https://linde.csod.com/ux/ats/careersite/20/home/requisition/31626?c=linde",
-    "title": "Controlor Calitate (m/f/d)",
-    "company": "LINDE GAZ ROMANIA SRL",
-    "location": [
-      "Galati, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-10T12:48:49.762Z",
-    "status": "scraped",
-    "tags": [
-      "Spectroscopie moleculara",
-      "Detectoare de radiatii"
-    ],
-    "matchPercentage": 30,
-    "reason": "Control calitate gaze industriale - partial relevant prin cunostintele de spectroscopie si detectoare de radiatii, dar domeniul este industrial chimic"
+    "matchPercentage": 20,
+    "reason": "Programare CNC și operare echipamente; parțial folosești programare și electronică."
   }
 ]
