@@ -1,22 +1,5 @@
 [
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-electromecanic-serv-aparatura-medicala",
-    "title": "Tehnician Electromecanic-Serv aparatură medicală",
-    "company": "SILVEXIM STAR SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:23:38.942Z",
-    "status": "scraped",
-    "tags": [
-      "Service echipamente medicală",
-      "Aparatură medicală"
-    ],
-    "matchPercentage": 90,
-    "reason": "Service aparatură medicală - se potrivește direct cu instalare, punere în funcțiune și service, electrotehnică/electromecanică."
-  },
-  {
     "url": "https://multijobs.ro/job/ingineri-service-aparatura-medicala/124",
     "title": "Ingineri service aparatură medicală",
     "company": "ACE RECRUIT S.R.L.",
@@ -24,14 +7,14 @@
       "Iași, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T13:21:55.666Z",
+    "date": "2026-10-04T14:03:56.798Z",
     "status": "scraped",
     "tags": [
-      "Service echipamente medicală",
-      "Testare aparatură medicală"
+      "service post-vânzare",
+      "echipamente electrice medicale"
     ],
-    "matchPercentage": 90,
-    "reason": "Ingineri service aparatură medicală - potrivire directă cu competențele de mentenanță, testare și service."
+    "matchPercentage": 95,
+    "reason": "Post de inginer service aparatură medicală, folosește direct competențele de service, mentenanță și echipamente medicale."
   },
   {
     "url": "https://reo-medical.ro/cariere/inginer-service/",
@@ -41,14 +24,99 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T13:13:57.349Z",
+    "date": "2026-10-04T13:49:00.187Z",
     "status": "scraped",
     "tags": [
-      "service aparatură medicală",
-      "punere în funcțiune"
+      "service post-vânzare",
+      "echipamente electrice medicale"
     ],
-    "matchPercentage": 88,
-    "reason": "Service și punere în funcțiune pentru aparatură medicală de recuperare, corespunde direct competențelor de service post-vânzare și mentenanță."
+    "matchPercentage": 95,
+    "reason": "Service Engineer pentru aparatură medicală, poziție junior/mid, folosește direct mentenanța, testarea și service-ul echipamentelor medicale."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-bio-service-aparate-medicale-4",
+    "title": "INGINER (BIO) SERVICE - APARATE MEDICALE",
+    "company": "DANSON SRL",
+    "location": [
+      "Strada Aurel Vlaicu, Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:10:11.142Z",
+    "status": "scraped",
+    "tags": [
+      "aparatură medicală",
+      "service post-vânzare"
+    ],
+    "matchPercentage": 90,
+    "reason": "Postul de inginer (BIO) service pentru aparate medicale folosește direct competențele de service, testare și instrumentație medicală."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-inginer-dispozitive-medicale-1",
+    "title": "Tehnician/Inginer dispozitive medicale",
+    "company": "TRANSERV MEDICAL S.R.L.",
+    "location": [
+      "Focsani, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:09:55.291Z",
+    "status": "scraped",
+    "tags": [
+      "dispozitive medicale",
+      "instrumentație medicală"
+    ],
+    "matchPercentage": 90,
+    "reason": "Tehnician/Inginer dispozitive medicale corespunde direct domeniului de proiectare, mentenanță și evaluare a aparaturii medicale."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-clinic-aparatura-medicala-recuperare-2",
+    "title": "Specialist Clinic - Aparatura Medicala Recuperare",
+    "company": "BTL ROMANIA APARATURA MEDICALA SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T13:50:29.464Z",
+    "status": "scraped",
+    "tags": [
+      "achiziție de date",
+      "instrumentație medicală"
+    ],
+    "matchPercentage": 90,
+    "reason": "Specialist clinic pentru aparatură medicală de recuperare, folosește direct instrumentația medicală și cunoștințe despre echipamente medicale."
+  },
+  {
+    "url": "https://fjobs.ro/job/operator-aparatura-tehnica-dentara/",
+    "title": "Operator aparatura tehnica…",
+    "company": "PROFESIONAL LEASING S.R.L.",
+    "location": [
+      "Bacau, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T13:49:39.783Z",
+    "status": "scraped",
+    "tags": [
+      "achiziție de date",
+      "instrumentație virtuală"
+    ],
+    "matchPercentage": 85,
+    "reason": "Operator aparatură tehnică dentară, nivel entry-level, utilizează competențe de achiziție de date și instrumentație medicală."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271129/Bosch-Romania/Working-Student-in-Embedded-Software-Development---High-Level",
+    "title": "Working Student in Embedded Software Development - High Level",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:08:45.612Z",
+    "status": "scraped",
+    "tags": [
+      "embedded",
+      "automatizare"
+    ],
+    "matchPercentage": 76,
+    "reason": "Pozitie de student, nivel corespunzator absolut, pe dezvoltare software embedded pentru automatizari industriale, relevanta pentru sisteme embedded ale aparaturii medicale."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/269847/Bosch-Romania/Working-Student---3D-Printing",
@@ -58,115 +126,233 @@
       "Blaj, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T13:21:05.307Z",
+    "date": "2026-10-04T14:06:10.232Z",
     "status": "scraped",
     "tags": [
-      "Fabricare aditivă",
-      "Proiectare CAD"
+      "3D printing",
+      "student"
     ],
-    "matchPercentage": 80,
-    "reason": "Working student la Bosch Rexroth, la nivelul potrivit pentru un student, pe direcția fabricării aditive – relevant pentru aplicații medicale de tip implanturi sau piese personalizate."
+    "matchPercentage": 75,
+    "reason": "Pozitie de student la aditivare 3D, exact zona ta de interes (fabricare aditiva), nivel intrare fara experienta ceruta."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144766999",
-    "title": "Working Student in Embedded Software Development - High Level",
-    "company": "DEN BOSCH GROUP SRL",
+    "url": "https://multijobs.ro/job/inginer-electronica-electrotehnica/2390",
+    "title": "Inginer electronica – electrotehnica",
+    "company": "EE TEST SA",
     "location": [
-      "Cluj-Napoca, Romania"
+      "Timișoara, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T13:16:02.762Z",
+    "date": "2026-10-04T14:01:37.959Z",
+    "status": "scraped",
+    "tags": [
+      "Testare aparatura",
+      "Electronica"
+    ],
+    "matchPercentage": 72,
+    "reason": "Inginer electronica la un furnizor de servicii de testare electronică: activitate de testare și măsurare electrică relevantă pentru profilul meu, la nivel de inginer entry-level, chiar dacă aplicația finală poate fi non-medicală."
+  },
+  {
+    "url": "https://cemacon.ro/cariere/inginer-tehnolog/",
+    "title": "Inginer Tehnolog",
+    "company": "CEMACON SA",
+    "location": [
+      "Cluj-Napoca"
+    ],
+    "salary": null,
+    "date": "2026-10-04T18:55:57.742Z",
+    "status": "scraped",
+    "tags": [
+      "producție",
+      "materiale"
+    ],
+    "matchPercentage": 70,
+    "reason": "Proces tehnologic și producție industrială parțial relevante pentru echipamente medicale."
+  },
+  {
+    "url": "https://turbomecanica.ro/job/auditor-intern-inginer-metalurg/",
+    "title": "Auditor intern - Inginer metalurg",
+    "company": "TURBOMECANICA SA",
+    "location": [
+      "Bucuresti"
+    ],
+    "salary": null,
+    "date": "2026-10-04T18:55:51.550Z",
+    "status": "scraped",
+    "tags": [
+      "certificare",
+      "fiabilitate"
+    ],
+    "matchPercentage": 70,
+    "reason": "Audit și sisteme de calitate parțial relevante pentru certificarea aparaturii medicale."
+  },
+  {
+    "url": "https://turbomecanica.ro/job/inginer-proiectant-asigurarea-calitatii/",
+    "title": "Inginer/Proiectant asigurarea calitatii",
+    "company": "TURBOMECANICA SA",
+    "location": [
+      "Bucuresti"
+    ],
+    "salary": null,
+    "date": "2026-10-04T18:55:51.550Z",
+    "status": "scraped",
+    "tags": [
+      "certificare",
+      "calitate"
+    ],
+    "matchPercentage": 70,
+    "reason": "Asigurarea calității și sisteme de management relevante parțial pentru testare/certificare."
+  },
+  {
+    "url": "https://cariere.aerostar.ro/jobs/9cf59402-0cee-43ef-841c-b37db4d7d6f7",
+    "title": "INGINER METALURG",
+    "company": "AEROSTAR SA",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-04T18:55:47.179Z",
+    "status": "scraped",
+    "tags": [
+      "materiale",
+      "mecanică"
+    ],
+    "matchPercentage": 65,
+    "reason": "Metalurgie și materiale se leagă parțial de biomateriale și structuri mecanice."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/electrician-echipamente-industriale/1987327",
+    "title": "Electrician echipamente industriale",
+    "company": "TACROM SERVICES SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:12:45.294Z",
+    "status": "scraped",
+    "tags": [
+      "automatizare",
+      "circuite electronice"
+    ],
+    "matchPercentage": 65,
+    "reason": "Cerințele de automatizare industrială, PLC și schemă electrică se potrivesc parțial cu competențele de automatizare medicală."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/tehnician-d-curtea-de-arges/1987389",
+    "title": "Tehnician 3D - Curtea de Arges",
+    "company": "ROMANIA TRAVEL PLUS SRL",
+    "location": [
+      "Curteadearges, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:09:44.864Z",
+    "status": "scraped",
+    "tags": [
+      "desen tehnic",
+      "metrologie"
+    ],
+    "matchPercentage": 65,
+    "reason": "Metrologie, masuratori cu CMM/scanner 3D, desen tehnic si GD&T corespund direct competentelor tale de masurare si desen tehnic, la nivel de tehnician entry-level."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/222109/JumpStart---A-GenZ-Career-Hub/Programe-de-internship-trainee-sau-joburi-entry-level-in-Inginerie",
+    "title": "Programe de internship trainee sau joburi entry-level in Inginerie",
+    "company": "JUMP START SRL",
+    "location": [
+      "Bucuresti,Ploiesti,Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:06:39.435Z",
+    "status": "scraped",
+    "tags": [
+      "documentare tehnica",
+      "proiectare CAD/CAM"
+    ],
+    "matchPercentage": 65,
+    "reason": "Portal cu stagii si pozitii entry-level in inginerie - nivel potrivit, dar rolurile 具体 trebuie filtrate spre inginerie biomedicala/electronica la selectare."
+  },
+  {
+    "url": "https://jobs.rinf.tech/230966",
+    "title": "Embedded Software Engineer",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:12:05.977Z",
     "status": "scraped",
     "tags": [
       "embedded",
       "microcontrolori"
     ],
-    "matchPercentage": 72,
-    "reason": "Dezvoltare embedded la nivel de working student in Cluj, aliniare directa cu competentele de microcontrolori si sisteme embedded, desi proiectul este auto."
+    "matchPercentage": 62,
+    "reason": "Rol de inginer software embedded la nivel entry/junior, foloseste direct competentele de microcontrolori si dezvoltare firmware, desi proiectele sunt din industria auto, nu medicala."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3366286",
-    "title": "TEHNICIAN ELECTRONICA",
-    "company": "BIT 2 BIT SOFT SRL",
+    "url": "https://jobs.rinf.tech/232674",
+    "title": "C/C++ Embedded Developer",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
     "location": [
-      "Bucuresti sectorul 2, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T13:05:44.399Z",
+    "date": "2026-10-04T14:02:26.559Z",
     "status": "scraped",
     "tags": [
-      "Circuite electronice",
-      "Aparate de măsură"
+      "embedded",
+      "microcontrolori"
     ],
-    "matchPercentage": 66,
-    "reason": "Citirea și configurarea schemelor electronice, utilizarea aparatelor de măsură și diagnoza defectelor la nivel entry-level, în acord cu abilitățile tale de electronică."
+    "matchPercentage": 62,
+    "reason": "Dezvoltator C/C++ embedded la nivel de intrare, corespunde competentelor de embedded si microcontrolori, cu proiecte insa in automotive."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-asamblare-automatizari-industriale",
-    "title": "Inginer Asamblare Automatizari Industriale",
-    "company": "A&amp;S TECHNOLOGY SRL",
+    "url": "https://cariere.aerostar.ro/jobs/1c5018b9-e8ee-493c-9d6f-a07cf81b400f",
+    "title": "INGINER SUDOR",
+    "company": "AEROSTAR SA",
     "location": [
-      "Timișoara, Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-10-03T13:26:06.386Z",
+    "date": "2026-10-04T18:55:47.179Z",
     "status": "scraped",
     "tags": [
-      "Automatizare",
-      "Sisteme embedded"
+      "producție",
+      "materiale"
     ],
-    "matchPercentage": 65,
-    "reason": "Automatizări industriale se suprapun parțial cu automatizarea echipamentelor medicale, nivel neprecizat dar plausibil entry/mid."
+    "matchPercentage": 60,
+    "reason": "Sudură și tehnologii de fabricație au relevanță limitată pentru dispozitive medicale."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-in-electronica-1",
-    "title": "Inginer in electronica",
-    "company": "ARKA UNIVERSAL IMPEX SRL",
+    "url": "https://www.targuldecariere.ro/companii/schaeffler/18651/embedded-software-eng",
+    "title": "Embedded Software Eng.",
+    "company": "SCHAEFFLER ROMANIA SRL",
     "location": [
       "Brașov, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T13:22:44.308Z",
+    "date": "2026-10-04T14:03:55.630Z",
     "status": "scraped",
     "tags": [
-      "Circuite electronice",
-      "Embedded"
-    ],
-    "matchPercentage": 65,
-    "reason": "Inginer în electronică pentru echipamente audio – nivel potrivit, competențe de circuite relevante, dar fără aplicare directă în domeniul medical."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272218/Hipo-Job-Finder/Tehnician-analiza-calitatii-(4-schimburi---Electronica)-F/M---Marquardt",
-    "title": "Tehnician analiza calitatii (4 schimburi - Electronica) F/M - Marquardt",
-    "company": "HIPO COMPANY GRUP SRL",
-    "location": [
-      "Sibiu, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:05:22.744Z",
-    "status": "scraped",
-    "tags": [
-      "Testare",
-      "Asigurarea calității"
-    ],
-    "matchPercentage": 62,
-    "reason": "Analiza calității pe componente electronice la nivel intermediar, tangibilă cu testarea și evaluarea aparaturii, deși într-un mediu non-medical."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-expert-standardizare-7",
-    "title": "Inginer / Expert Standardizare",
-    "company": "FILIALA JUDETEANA GALATI. ASOCIATIA CRESCATORILOR DE ALBINE DIN ROMANIA",
-    "location": [
-      "Strada Mihai Eminescu 238, Bucuresti 030167, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:25:53.219Z",
-    "status": "scraped",
-    "tags": [
-      "Certificare",
-      "Testare aparatură medicală"
+      "embedded",
+      "microcontrolori"
     ],
     "matchPercentage": 60,
-    "reason": "Standardizare se potrivește parțial cu testare, evaluare și certificare aparatură medicală; nivel inginer plausibil entry/mid."
+    "reason": "Inginer software embedded, nivel entry/junior, potrivit competentelor de microcontrolori, insa domeniul este automotive si nu medical."
+  },
+  {
+    "url": "https://jobs.rinf.tech/213554",
+    "title": "Cross-Platform Embedded Developer",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:01:48.992Z",
+    "status": "scraped",
+    "tags": [
+      "embedded"
+    ],
+    "matchPercentage": 60,
+    "reason": "Dezvoltator embedded cross-platform, relevant pentru competentele de embedded, dar fara aplicatii directe in ingineria medicala."
   }
 ]
