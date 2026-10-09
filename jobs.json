@@ -1,37 +1,37 @@
 [
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-electromecanic-serv-aparatura-medicala",
-    "title": "Tehnician Electromecanic-Serv aparatură medicală",
-    "company": "SILVEXIM STAR SRL",
+    "url": "https://www.jobradar24.ro/anunt/controlor-calitate-productie-de-pentru-industria-medicala-erwz7j",
+    "title": "Controlor Calitate (Producție industria medicală)",
+    "company": "GMT  GERMAN MEDICAL TECHNOLOGY S.R.L.",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:09:31.984Z",
+    "date": "2026-10-08T15:25:51.829Z",
     "status": "scraped",
     "tags": [
-      "Service echipamente",
-      "Instalații electrice"
+      "Desen tehnic",
+      "Testare aparatură medicală"
     ],
-    "matchPercentage": 88,
-    "reason": "Tehnician electromecanic pentru service de aparatură medicală, potrivire directă cu competențele de service echipamente și electronică la nivel entry."
+    "matchPercentage": 90,
+    "reason": "Controlul calității pentru componente de precizie destinate dispozitivelor medicale folosește direct desenul tehnic, testarea și evaluarea aparaturii medicale."
   },
   {
-    "url": "https://multijobs.ro/job/ingineri-service-aparatura-medicala/124",
-    "title": "Ingineri service aparatură medicală",
-    "company": "ACE RECRUIT S.R.L.",
+    "url": "https://cariere.reginamaria.ro/company/regina-maria-1/jobs/junior-specialist-dispozitive-medicale",
+    "title": "Junior Specialist Dispozitive Medicale",
+    "company": "REGINA MARIA - BANCA CENTRALĂ DE CELULE STEM S.A.",
     "location": [
-      "Iași, Romania"
+      "Cluj-Napoca, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:14:29.291Z",
+    "date": "2026-10-08T15:21:46.337Z",
     "status": "scraped",
     "tags": [
-      "Service echipamente",
-      "Testare echipamente"
+      "Service echipamente medicale",
+      "Testare certificare"
     ],
-    "matchPercentage": 85,
-    "reason": "Inginer service aparatură medicală, potrivire directă cu competențele de service, instalare și testare a echipamentelor medicale."
+    "matchPercentage": 88,
+    "reason": "Junior, la Cluj, cu mentenanță, verificare și reglementare (ANMDMR) a dispozitivelor medicale — potrivire directă cu competențele de service, testare și certificare."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/inginer-service-aparatura-de-laborator-11",
@@ -45,44 +45,231 @@
     "status": "scraped",
     "tags": [
       "Service echipamente",
-      "Testare echipamente"
+      "Echipamente medicale"
     ],
-    "matchPercentage": 82,
-    "reason": "Inginer service pentru aparatură de laborator folosește direct competențele de instalare, punere în funcțiune și service echipamente."
+    "matchPercentage": 88,
+    "reason": "Inginer de service pe aparatură de laborator, folosește direct competențele de mentenanță și punere în funcțiune."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270990/AUMOVIO-Romania/Internship-for-REL-Laboratory-(Iasi)",
-    "title": "Internship for REL Laboratory (Iasi)",
-    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
+    "url": "https://multijobs.ro/job/ingineri-service-aparatura-medicala/124",
+    "title": "Ingineri service aparatură medicală",
+    "company": "ACE RECRUIT S.R.L.",
     "location": [
       "Iași, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:24:46.550Z",
+    "date": "2026-10-07T15:14:29.291Z",
     "status": "scraped",
     "tags": [
-      "Analiză de fiabilitate",
-      "Testare și certificare"
+      "Service echipamente",
+      "Echipamente medicale"
     ],
-    "matchPercentage": 76,
-    "reason": "Internship în laborator de fiabilitate care se aliniază direct cu analiza de fiabilitate și testarea/evaluarea echipamentelor, la nivel de intrare."
+    "matchPercentage": 88,
+    "reason": "Ingineri service aparatură medicală, potrivire directă cu competențele de service, testare și mentenanță."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271685/AUMOVIO-Romania/Internship-for-Printed-Circuit-Board-(Iasi)",
-    "title": "Internship for Printed Circuit Board (Iasi)",
-    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
+    "url": "https://multijobs.ro/job/specialist-tehnic-aparatura-medicala-stomatologie/2363",
+    "title": "Specialist Tehnic aparatura medicala stomatologie",
+    "company": "HALMADENT SRL",
+    "location": [
+      "Brașov, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:22:52.501Z",
+    "status": "scraped",
+    "tags": [
+      "Echipamente medicale",
+      "Service echipamente"
+    ],
+    "matchPercentage": 85,
+    "reason": "Specialist tehnic pe aparatură medicală, potrivire directă cu mentenanța și service-ul echipamentelor medicale."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-electromecanic-serv-aparatura-medicala",
+    "title": "Tehnician Electromecanic-Serv aparatură medicală",
+    "company": "SILVEXIM STAR SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:09:31.984Z",
+    "status": "scraped",
+    "tags": [
+      "Electronică",
+      "Echipamente medicale"
+    ],
+    "matchPercentage": 85,
+    "reason": "Tehnician electromecanic pentru service aparatură medicală, folosește direct competențele electronice și de echipamente medicale."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-service-aparatura-analitica-de-laborator-3",
+    "title": "inginer service aparatura analitica de laborator",
+    "company": "BERD TRADING SRL",
+    "location": [
+      "Calea Dorobantilor nr. 59 Bloc 59 Sc. 1 Ap. 3 Sector 1, Bucuresti, Municipiul Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:23:26.098Z",
+    "status": "scraped",
+    "tags": [
+      "Service echipamente medicale",
+      "Testare evaluare"
+    ],
+    "matchPercentage": 82,
+    "reason": "Service și mentenanță de aparatură de laborator intră direct în competențele de instalare, testare și evaluare a echipamentelor medicale/analitice."
+  },
+  {
+    "url": "https://fjobs.ro/job/inginer-proiectare-mecanica-2/",
+    "title": "Inginer Proiectare Mecanică",
+    "company": "PROFESIONAL LEASING S.R.L.",
+    "location": [
+      "Bacau, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:23:14.170Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare CAD/CAM",
+      "Analiză structurală"
+    ],
+    "matchPercentage": 76,
+    "reason": "Proiectare mecanică - se potrivește direct cu CAD/CAM și analiza structurală, chiar dacă nu e medical."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/inginer-proiectant-mecanic-cad_hunedoara_5373/",
+    "title": "Inginer Proiectant Mecanic CAD",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "Hunedoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:22:02.491Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare CAD/CAM",
+      "Desen tehnic"
+    ],
+    "matchPercentage": 76,
+    "reason": "Proiectant mecanic CAD - potrivire directă cu proiectarea CAD/CAM a echipamentelor."
+  },
+  {
+    "url": "https://multijobs.ro/job/asam-angajeaza-inginer-proiectant-solidworks/3731",
+    "title": "ASAM angajeaza inginer proiectant Solidworks",
+    "company": "ASAM SA",
     "location": [
       "Iași, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:24:46.550Z",
+    "date": "2026-10-08T15:23:57.203Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare CAD/CAM",
+      "Modelare și simulare numerică"
+    ],
+    "matchPercentage": 75,
+    "reason": "Inginer proiectant SolidWorks - potrivire directă cu proiectarea CAD a echipamentelor."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/inginer-proiectant-mecanic-cam_hunedoara_5376/",
+    "title": "Inginer Proiectant Mecanic CAM",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "Hunedoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:22:02.491Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare CAD/CAM",
+      "Fabricare aditivă"
+    ],
+    "matchPercentage": 74,
+    "reason": "Proiectant mecanic CAM - potrivire directă cu CAD/CAM și producția de echipamente."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270114/Bosch-Romania/CAD-Engineer",
+    "title": "CAD Engineer",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:17:01.026Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare CAD/CAM",
+      "Desen tehnic"
+    ],
+    "matchPercentage": 74,
+    "reason": "CAD Engineer la 1-5 ani experiență - potrivire directă cu proiectarea CAD/CAM la nivel junior/mid."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-structurist-proiectare-59",
+    "title": "Inginer structurist-proiectare",
+    "company": "ADVANCED TECHNICAL SOLUTIONS AND DESIGN SRL",
+    "location": [
+      "Mioveni 115400, Romania,Pitești, Romania,Topoloveni, Romania,Curtea de Arges 115300, Romania,Campulung, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:24:50.509Z",
+    "status": "scraped",
+    "tags": [
+      "Analiză structurală",
+      "Rezistența materialelor"
+    ],
+    "matchPercentage": 72,
+    "reason": "Proiectare structurală - se potrivește direct cu rezistența materialelor și analiza structurală din plan."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/tehnician-d-curtea-de-arges/1987389",
+    "title": "Tehnician 3D - Curtea de Arges",
+    "company": "ROMANIA TRAVEL PLUS SRL",
+    "location": [
+      "Curteadearges, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:25:15.749Z",
+    "status": "scraped",
+    "tags": [
+      "Desen tehnic",
+      "Măsurarea parametrilor"
+    ],
+    "matchPercentage": 72,
+    "reason": "Tehnician de metrologie 3D (masurare, scanare, rapoarte), nivel entry, folosește desen tehnic și GD&T, dar în industrie generală, nu medicală."
+  },
+  {
+    "url": "https://multijobs.ro/job/inginer-electronica-electrotehnica/2390",
+    "title": "Inginer electronica – electrotehnica",
+    "company": "EE TEST SA",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:18:58.034Z",
     "status": "scraped",
     "tags": [
       "Circuite electronice",
-      "Sisteme embedded"
+      "Instalații electrice"
     ],
     "matchPercentage": 72,
-    "reason": "Internship în proiectare/tehnologie de plăci tipărite care folosește direct competențele de circuite electronice și sisteme embedded, deși în domeniul automotive."
+    "reason": "Inginer electronica-electrotehnica, folosește direct competențele de circuite electronice și instalații electrice din planul de învățământ."
+  },
+  {
+    "url": "https://jobs.bosch.com/en/job/REF289650F-embedded-ai-software-engineer-mid-level",
+    "title": "Embedded AI Software Engineer Mid-Level",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:22:26.758Z",
+    "status": "scraped",
+    "tags": [
+      "Sisteme embedded",
+      "Simulare Python"
+    ],
+    "matchPercentage": 72,
+    "reason": "Inginer embedded software nivel mid, folosește direct competențele de sisteme embedded, microcontrolori și Python."
   },
   {
     "url": "https://oferimdemunca.ro/job/inginer-designer-3d-junior-senior-proiectare-mecanica-cad-autocad-solidworks-rhino/",
@@ -99,75 +286,24 @@
       "Desen tehnic"
     ],
     "matchPercentage": 70,
-    "reason": "Proiectare CAD 3D la nivel începător în Cluj, potrivit ca junior, deși produsele nu sunt medicale."
+    "reason": "Proiectare CAD 3D (SolidWorks/AutoCAD/Rhino) la nivel junior, dar într-un domeniu industrial general, nu medical."
   },
   {
-    "url": "https://multijobs.ro/job/inginer-electronica-electrotehnica/2390",
-    "title": "Inginer electronica – electrotehnica",
-    "company": "EE TEST SA",
+    "url": "https://fjobs.ro/job/inginer-proiectare-electrica/",
+    "title": "Inginer Proiectare Electrică",
+    "company": "PROFESIONAL LEASING S.R.L.",
     "location": [
-      "Timișoara, Romania"
+      "Bacau, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:18:58.034Z",
-    "status": "scraped",
-    "tags": [
-      "Circuite electronice",
-      "Automatică"
-    ],
-    "matchPercentage": 70,
-    "reason": "Inginerie în electronică-electrotehnica se potrivește direct cu competențele de circuite electronice și automatizare, la nivel de intrare/mid."
-  },
-  {
-    "url": "https://8ore.ro/locuri-de-munca/tehnician-programare-cad-cam-cnc-belciugatele",
-    "title": "TEHNICIAN PROGRAMARE (CAD/CAM/CNC) - Belciugatele",
-    "company": "RECRUITMENT MARATHON S.R.L.",
-    "location": [
-      "Belciugatele, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:14:04.937Z",
-    "status": "scraped",
-    "tags": [
-      "Proiectare CAD/CAM",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 68,
-    "reason": "Poziție junioră cu proiectare CAD/CAM și optimizarea modelelor, competențe dobândite în planul de învățământ."
-  },
-  {
-    "url": "https://careers.amd.com/careers-home/jobs/91606",
-    "title": "Gate Level Design Verification",
-    "company": "AMD GRUP SRL",
-    "location": [
-      "Iași, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:25:20.213Z",
+    "date": "2026-10-08T15:23:14.170Z",
     "status": "scraped",
     "tags": [
       "Circuite electronice",
       "Sisteme embedded"
     ],
     "matchPercentage": 68,
-    "reason": "Verificare hardware digital și simulare, potrivire parțială cu electronică și sisteme embedded, dar în domeniul procesoarelor, nu medical; nivelul pare junior-compatible."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-electrician-instalatii-electrice",
-    "title": "Inginer electrician / instalații electrice",
-    "company": "ELECTROSTRAT S.R.L.",
-    "location": [
-      "Bucuresti, Romania,Cluj-Napoca, Romania,Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:27:52.971Z",
-    "status": "scraped",
-    "tags": [
-      "Instalații electrice",
-      "echipamente electrice"
-    ],
-    "matchPercentage": 65,
-    "reason": "Instalații electrice și echipamente electrice sunt o competență din planul de învățământ, dar domeniul nu e specific medical."
+    "reason": "Proiectare electrică - potrivire directă cu electronică analogică/digitală și circuite."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/inginer-mecanic-proiectare-industriala-cad-3d-4",
@@ -181,10 +317,95 @@
     "status": "scraped",
     "tags": [
       "Proiectare CAD/CAM",
-      "Desen tehnic"
+      "Analiză structurală"
+    ],
+    "matchPercentage": 68,
+    "reason": "Proiectare industrială CAD 3D, folosește direct competența de proiectare CAD, dar în domeniu industrial general, nu medical."
+  },
+  {
+    "url": "https://jobs.zollner.ro/jobposting/200cf519cd47080273854a74b5851a118191051b0",
+    "title": "Tehnician electronică",
+    "company": "ZES ZOLLNER ELECTRONIC SRL",
+    "location": [
+      "Satu Mare, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:12:53.585Z",
+    "status": "scraped",
+    "tags": [
+      "Testare echipamente",
+      "Circuite electronice"
+    ],
+    "matchPercentage": 68,
+    "reason": "Tehnician electronică cu testare și reparație de plăci, potrivește competențele de electronică și testare echipamente la nivel junior (2 ani)."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/schaeffler/18651/embedded-software-eng",
+    "title": "Embedded Software Eng.",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:20:28.709Z",
+    "status": "scraped",
+    "tags": [
+      "sisteme embedded",
+      "microcontrolere"
+    ],
+    "matchPercentage": 68,
+    "reason": "Dezvoltare software embedded, domeniu acoperit de competențele de microcontrolere și sisteme embedded, iar nivelul nu este senior."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-clinic-aparatura-medicala-recuperare-2",
+    "title": "Specialist Clinic - Aparatura Medicala Recuperare",
+    "company": "BTL ROMANIA APARATURA MEDICALA SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:14:40.372Z",
+    "status": "scraped",
+    "tags": [
+      "Echipamente medicale",
+      "Instrumentație medicală"
+    ],
+    "matchPercentage": 68,
+    "reason": "Specialist pe aparatură medicală de recuperare, relevant parțial pentru operarea și evaluarea echipamentelor medicale."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-mecanica-fina-10",
+    "title": "Tehnician mecanica fina",
+    "company": "KENDRION INDUSTRIAL (SIBIU) SRL",
+    "location": [
+      "Soseaua Sibiului 139, Selimbar 557260, Romania,Sibiu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:25:42.051Z",
+    "status": "scraped",
+    "tags": [
+      "Analiză structurală",
+      "Proiectare CAD/CAM"
+    ],
+    "matchPercentage": 66,
+    "reason": "Mecanică fină - se leagă de competențele de proiectare și execuție mecanică a dispozitivelor."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3410924",
+    "title": "TEHNICIAN ELECTRONICA",
+    "company": "SYNTRONIC PRODUCTION AND AFTERMARKET SERVICES S.R.L.",
+    "location": [
+      "Ghiroda, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:18:13.775Z",
+    "status": "scraped",
+    "tags": [
+      "Circuite electronice",
+      "Sisteme embedded"
     ],
     "matchPercentage": 65,
-    "reason": "Proiectare CAD 3D industrială folosește direct competența de proiectare CAD/CAM, deși nu în domeniul medical."
+    "reason": "Tehnician electronică la nivel entry (<3 ani), testare și mentenanță echipamente electronice, relevant pentru instrumentație și electronică medicală."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/inginer-in-electronica-1",
@@ -198,309 +419,94 @@
     "status": "scraped",
     "tags": [
       "Circuite electronice",
-      "Automatică"
+      "Electronică"
     ],
     "matchPercentage": 65,
-    "reason": "Inginer în electronică intră în domeniul electronică/instrumentație, potrivit pentru nivel entry/mid."
+    "reason": "Poziție de inginer în electronică, folosește competențele de proiectare circuite electronice, nivel entry/mid plauzibil."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270222/AUMOVIO-Romania/Internship-for-SMT-&amp;-Maintenance-Team---Manufacturing-TM",
-    "title": "Internship for SMT &amp; Maintenance Team - Manufacturing TM",
-    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:22:29.278Z",
-    "status": "scraped",
-    "tags": [
-      "Circuite electronice",
-      "Sisteme embedded"
-    ],
-    "matchPercentage": 65,
-    "reason": "Internship SMT & mentenanță - electronică, întreținere și echipamente, competențe relevante dar în industria auto, nu medicală."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-instalatii-gaze-medicale-hvac-1",
-    "title": "Tehnician instalatii gaze medicale/HVAC",
-    "company": "HOSPITAL TECHNICAL SOLUTIONS S.R.L.",
+    "url": "https://jobs.rinf.tech/213554",
+    "title": "Cross-Platform Embedded Developer",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:20:36.152Z",
+    "date": "2026-10-08T15:17:34.213Z",
     "status": "scraped",
     "tags": [
-      "punere în funcțiune",
-      "service echipamente medicale"
+      "sisteme embedded",
+      "microcontrolere"
     ],
-    "matchPercentage": 64,
-    "reason": "Tehnician instalații medicale în spital - montaj, punere în funcțiune și mentenanță de echipamente/instalații medicale, nivel entry potrivit."
+    "matchPercentage": 65,
+    "reason": "Dezvoltare embedded la nivel junior-compatible, relevantă pentru competențele de microcontrolere și circuite electronice."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3133391",
-    "title": "ELECTRICIAN ECHIPAMENTE ELECTRICE SI ENERGETICE",
-    "company": "IRIS SERVICE CIUC SA",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272218/Hipo-Job-Finder/Tehnician-analiza-calitatii-(4-schimburi---Electronica)-F/M---Marquardt",
+    "title": "Tehnician analiza calitatii (4 schimburi - Electronica) F/M - Marquardt",
+    "company": "HIPO COMPANY GRUP SRL",
     "location": [
-      "Miercurea ciuc, Romania"
+      "Sibiu, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:24:04.064Z",
+    "date": "2026-10-07T15:19:06.410Z",
     "status": "scraped",
     "tags": [
-      "Instalații electrice",
-      "Service echipamente"
+      "Testare echipamente",
+      "Electronică"
     ],
     "matchPercentage": 64,
-    "reason": "Instalarea, punerea în funcțiune și mentenanța echipamentelor electrice se potrivește parțial cu competențele de instalații și service, la nivel entry sub 3 ani."
+    "reason": "Tehnician de analiză a calității în electronică, folosește direct competențele de testare și măsurare; nivel 1-5 ani acceptabil pentru junior."
   },
   {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/desenator-tehnic-proiectant-solidworks/1986923",
-    "title": "Desenator Tehnic / Proiectant SolidWorks",
-    "company": "KRONSTEF SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-etalonare-service-cantare-electronice",
+    "title": "Tehnician service cantare electronice",
+    "company": "PROROOF COMP SRL",
+    "location": [
+      "Strada Caraiman 63, București, Romania,BUCURESTI, SECTOR 1, B-DUL BANU MANTA, NR.77, AP.1, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:24:44.757Z",
+    "status": "scraped",
+    "tags": [
+      "Service echipamente",
+      "Măsurare parametri"
+    ],
+    "matchPercentage": 63,
+    "reason": "Tehnician service pentru cântare electronice, folosește competențele de mentenanță, instalare și service echipamente de măsurare."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/251911/Siemens-Energy/Field-Service-Technician---Power-Transformers",
+    "title": "Field Service Technician - Power Transformers",
+    "company": "SIEMENS ENERGY S.R.L.",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-02T14:29:49.626Z",
+    "date": "2026-10-08T15:26:47.321Z",
+    "status": "scraped",
+    "tags": [
+      "instalații electrice",
+      "service echipamente"
+    ],
+    "matchPercentage": 62,
+    "reason": "Service tehnic de teren pe echipamente electrice de putere, care valorifică parțial competențele de instalații electrice și service/mentenanță, deși nu sunt echipamente medicale."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-ofertare-proiectare-11",
+    "title": "Inginer Ofertare Proiectare",
+    "company": "MIMOC PREST SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:26:23.415Z",
     "status": "scraped",
     "tags": [
       "Proiectare CAD/CAM",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 63,
-    "reason": "Modelare 3D SolidWorks și desen tehnic sunt competențe directe, dar domeniul (tablarie) nu e medical."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-mecanic-echipamente-dinamice-4",
-    "title": "INGINER MECANIC – ECHIPAMENTE DINAMICE",
-    "company": "BEST PERSONAL SERVICES SRL",
-    "location": [
-      "Ploiesti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:26:19.395Z",
-    "status": "scraped",
-    "tags": [
-      "analiză structurală",
-      "rezistența materialelor"
+      "Documentare tehnică"
     ],
     "matchPercentage": 62,
-    "reason": "Inginerie mecanică de echipamente, unde analiza structurală și proiectarea mecanică din competențele tale sunt direct aplicabile."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/tehnician-d-curtea-de-arges/1987389",
-    "title": "Tehnician 3D - Curtea de Arges",
-    "company": "ROMANIA TRAVEL PLUS SRL",
-    "location": [
-      "Curteadearges, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:25:15.749Z",
-    "status": "scraped",
-    "tags": [
-      "Măsurare parametri",
-      "Testare echipamente"
-    ],
-    "matchPercentage": 62,
-    "reason": "Măsurători, instrumente de măsură și rapoarte folosesc competența de măsurare/testare, deși în industrie, nu medical."
-  },
-  {
-    "url": "https://jobs.zollner.ro/jobposting/200cf519cd47080273854a74b5851a118191051b0",
-    "title": "Tehnician electronică",
-    "company": "ZES ZOLLNER ELECTRONIC SRL",
-    "location": [
-      "Satu Mare, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:12:53.585Z",
-    "status": "scraped",
-    "tags": [
-      "Circuite electronice",
-      "Testare echipamente"
-    ],
-    "matchPercentage": 62,
-    "reason": "Testarea și repararea plăcilor electronice folosește direct competențele tale de electronică și testare echipamente, la nivel junior (min. 2 ani)."
-  },
-  {
-    "url": "https://multijobs.ro/job/electrician-echipamente-electrice-si-energetice/5846",
-    "title": "ELECTRICIAN ECHIPAMENTE ELECTRICE SI ENERGETICE",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Targu Jiu, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:23:51.388Z",
-    "status": "scraped",
-    "tags": [
-      "Instalații electrice",
-      "Service echipamente"
-    ],
-    "matchPercentage": 62,
-    "reason": "Montaj și întreținere echipamente electrice, potrivire parțială cu competențele de instalații electrice și service, nivel sub 3 ani experiență."
-  },
-  {
-    "url": "https://fjobs.ro/job/operator-aparatura-tehnica-dentara/",
-    "title": "Operator aparatura tehnica…",
-    "company": "PROFESIONAL LEASING S.R.L.",
-    "location": [
-      "Bacau, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:15:32.131Z",
-    "status": "scraped",
-    "tags": [
-      "CAD/CAM",
-      "Aparatură medicală"
-    ],
-    "matchPercentage": 62,
-    "reason": "Operare aparatură tehnică dentară în mediu digitalizat, potrivire parțială cu competențele de CAD/CAM și echipamente medicale, la nivel entry."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270519/AUMOVIO-Romania/Internship-for-Industrial-Engineering-Team---Manufacturing-TM",
-    "title": "Internship for Industrial Engineering Team - Manufacturing TM",
-    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:24:46.550Z",
-    "status": "scraped",
-    "tags": [
-      "Organizarea producției",
-      "Proiectare CAD/CAM"
-    ],
-    "matchPercentage": 62,
-    "reason": "Internship în inginerie industrială/manufacturieră, apropiat de organizarea producției și proiectarea echipamentelor, dar descrierea e slabă și orientată auto, nu medical."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/desenator-autocad-32",
-    "title": "Desenator AutoCAD",
-    "company": "MEISER ROMANIA SRL",
-    "location": [
-      "Oradea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:10:05.749Z",
-    "status": "scraped",
-    "tags": [
-      "Desen tehnic"
-    ],
-    "matchPercentage": 61,
-    "reason": "Întocmirea planșelor de execuție în AutoCAD folosește competența de desen tehnic, la nivel entry-level."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-mecanic-solidworks-confectii-metalice-4",
-    "title": "Inginer mecanic SOLIDWORKS - confectii metalice",
-    "company": "DIGITAL TELECOMMS SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:27:19.482Z",
-    "status": "scraped",
-    "tags": [
-      "Proiectare CAD/CAM"
-    ],
-    "matchPercentage": 60,
-    "reason": "Proiectare mecanică SOLIDWORKS se suprapune parțial cu proiectarea CAD a echipamentelor, deși domeniul este confecții metalice."
-  },
-  {
-    "url": "https://multijobs.ro/job/asam-angajeaza-inginer-proiectant-solidworks/3731",
-    "title": "ASAM angajeaza inginer proiectant Solidworks",
-    "company": "ASAM SA",
-    "location": [
-      "Iași, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:18:44.212Z",
-    "status": "scraped",
-    "tags": [
-      "Proiectare CAD/CAM"
-    ],
-    "matchPercentage": 60,
-    "reason": "Inginer proiectant Solidworks folosește competența de proiectare CAD, dar fără relevanță medicală."
-  },
-  {
-    "url": "https://multijobs.ro/job/desenator-tehnic-proiectant-autocad-2d/1411",
-    "title": "Desenator tehnic/proiectant autocad 2D",
-    "company": "FLAROM ADVERTISING SRL",
-    "location": [
-      "Constanta, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:09:56.535Z",
-    "status": "scraped",
-    "tags": [
-      "Desen tehnic"
-    ],
-    "matchPercentage": 60,
-    "reason": "Proiectare AutoCAD 2D folosește direct competența de desen tehnic inginerească."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-inginer-autocad-2",
-    "title": "TEHNICIAN/INGINER AUTOCAD",
-    "company": "MSM ALUMINIUM &amp; PVC SYSTEMS SRL",
-    "location": [
-      "Str. Splaiul Unirii, nr. 5B, Popesti-Leordeni, Ilfov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:04:18.446Z",
-    "status": "scraped",
-    "tags": [
-      "Desen tehnic"
-    ],
-    "matchPercentage": 60,
-    "reason": "Lucrul în AutoCAD pentru sisteme tehnice folosește competența de desen tehnic, deși nu în domeniul medical."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/dessinateur-desenator-autocad-1",
-    "title": "Dessinateur (Desenator) AutoCAD",
-    "company": "FRANCE BUSINESS TRADING S.R.L.",
-    "location": [
-      "Bulevardul Grivitei, Brașov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:03:52.447Z",
-    "status": "scraped",
-    "tags": [
-      "Desen tehnic"
-    ],
-    "matchPercentage": 60,
-    "reason": "Activitatea de desenator AutoCAD se bazează pe competența de desen tehnic și documentație tehnică."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/incepe-ti-cariera-in-industria-electronica-1",
-    "title": "Începe-ți cariera în industria electronică!",
-    "company": "FLASHNET S.A.",
-    "location": [
-      "Brașov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:19:16.686Z",
-    "status": "scraped",
-    "tags": [
-      "Circuite electronice",
-      "Sisteme embedded"
-    ],
-    "matchPercentage": 60,
-    "reason": "Poziție de intrare în industria electronică, domeniu acoperit parțial de competențele tale de circuite electronice și embedded."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3392132",
-    "title": "TEHNICIAN ELECTRONICA",
-    "company": "BLUESPACE TECHNOLOGY S.A.",
-    "location": [
-      "Oras bragadiru, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T14:49:54.390Z",
-    "status": "scraped",
-    "tags": [
-      "Circuite electronice",
-      "Testare echipamente"
-    ],
-    "matchPercentage": 60,
-    "reason": "Tehnician electronică cu experiență puțină sub 3 ani se potrivește parțial prin lucrul cu circuite și echipamente electronice."
+    "reason": "Proiectare în inginerie, dar domeniul (ofertare tehnică) nu e specific medical și detaliile sunt incomplete."
   }
 ]
