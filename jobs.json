@@ -11,11 +11,11 @@
     "date": "2026-10-17T12:00:36.032Z",
     "status": "scraped",
     "tags": [
-      "service echipamente medicale",
-      "intretinere aparatura"
+      "service aparatura medicala",
+      "testare aparatura"
     ],
     "matchPercentage": 88,
-    "reason": "Instalarea, depanarea si revizia aparaturii medicale se potriveste direct cu competentele de service si intretinere echipamente medicale, la nivel entry/junior."
+    "reason": "Inginer service pe aparatura medicala: instalare, punere in functiune, depanare, revizii si documentatie tehnica, exact profilul de service post-vanzzare medical."
   },
   {
     "url": "https://jobs.zollner.ro/jobposting/b6b83168c8d191aadedc69f020f5f0c82e6df9ee0",
@@ -29,11 +29,47 @@
     "date": "2026-10-17T12:22:35.934Z",
     "status": "scraped",
     "tags": [
-      "Sisteme embedded",
-      "Testare echipamente"
+      "circuite electronice",
+      "testare aparatura"
     ],
-    "matchPercentage": 85,
-    "reason": "Inginer sisteme de testare: programe de testare, analiză plăci electronice și mentenanță echipamente de testare, cu aplicații inclusiv în dispozitive medicale."
+    "matchPercentage": 84,
+    "reason": "Inginer de sisteme de testare electronica la un EMS care livreaza inclusiv sisteme de asistenta cardiaca: elaborare programe de test, analiza placilor, identificarea defectelor in circuit si mentenanta adaptoarelor, nivel potrivit pentru un absolvent de inginerie medicala/electronica."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/controlor-calitate-productie-de-pentru-industria-medicala-erwz7j",
+    "title": "Controlor Calitate (Producție industria medicală)",
+    "company": "GMT  GERMAN MEDICAL TECHNOLOGY S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:13:17.889Z",
+    "status": "scraped",
+    "tags": [
+      "certificare medicala",
+      "control calitate"
+    ],
+    "matchPercentage": 80,
+    "reason": "Controlul calitatii in productia de dispozitive medicale folosește direct testarea, verificarea documentelor tehnice si principiile de certificare ale aparaturii medicale, la un nivel entry-level."
+  },
+  {
+    "url": "https://multijobs.ro/job/specialist-tehnic-aparatura-medicala-stomatologie/2363",
+    "title": "Specialist Tehnic aparatura medicala stomatologie",
+    "company": "HALMADENT SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:17:56.215Z",
+    "status": "scraped",
+    "tags": [
+      "apparatura medicala",
+      "service post-vanzare"
+    ],
+    "matchPercentage": 78,
+    "reason": "Rol tehnic pe aparatura medicala stomatologica, in zona de mentenanta, punere in functiune si service post-vanzare; nivel tehnic entry/intermediar, cu verificare usoara a cerintei de experienta."
   },
   {
     "url": "https://multijobs.ro/job/desenator-tehnic-2d-cad/1769",
@@ -50,8 +86,44 @@
       "Desen tehnic",
       "Proiectare CAD/CAM"
     ],
-    "matchPercentage": 78,
-    "reason": "Desen tehnic și proiectare CAD directe, dar fără specificare clară a nivelului de experiență."
+    "matchPercentage": 72,
+    "reason": "Desenator tehnic 2D CAD este un rol de proiectare la nivel de intrare care foloseste direct desenul tehnic si proiectarea CAD, fara a cere experienta de ani."
+  },
+  {
+    "url": "https://jobs.bosch.com/en/job/REF289650F-embedded-ai-software-engineer-mid-level",
+    "title": "Embedded AI Software Engineer Mid-Level",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:06.239Z",
+    "status": "scraped",
+    "tags": [
+      "embedded",
+      "microcontrolori"
+    ],
+    "matchPercentage": 72,
+    "reason": "Dezvoltare de firmware embedded si AI in automatizare industriala la Bosch Rexroth, nivel mid potrivit si competenta embedded/electronica direct aplicabila."
+  },
+  {
+    "url": "https://careers.bmwtechworks.ro/jobs/8528985-industrial-automation-embedded-systems-engineer",
+    "title": "Industrial Automation &amp; Embedded Systems Engineer",
+    "company": "BMW TECHWORKS ROMANIA S.R.L.",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-20T10:56:30.898Z",
+    "status": "scraped",
+    "tags": [
+      "embedded",
+      "automatizare"
+    ],
+    "matchPercentage": 68,
+    "reason": "Rol de inginer automatizare si embedded: foloseste direct competentele de microcontrolori, circuite electronice si automatizare, dar domeniul este automotive, nu aparatura medicala."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156289169-working-student-in-embedded-software-development-high-level",
@@ -62,14 +134,32 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-19T12:44:36.733Z",
+    "date": "2026-10-20T11:15:25.334Z",
     "status": "scraped",
     "tags": [
-      "sisteme embedded",
-      "microcontrolori"
+      "embedded",
+      "procesare semnale"
     ],
-    "matchPercentage": 78,
-    "reason": "Dezvoltare software embedded la nivel entry (working student) în Cluj, potrivit cu competențele de sisteme embedded și microcontrolori."
+    "matchPercentage": 66,
+    "reason": "Working student în dezvoltare software embedded, perfect pentru un student în anii mari, cu aplicare în VR/MR care folosește procesare de semnale, deși domeniul nu este medical."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/tehnician-service-echipamente-electromecanice_bucuresti_5412/",
+    "title": "tehnician service - echipamente electromecanice",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-20T10:54:34.679Z",
+    "status": "scraped",
+    "tags": [
+      "mentenanta echipamente",
+      "automatizare"
+    ],
+    "matchPercentage": 65,
+    "reason": "Instalare, mentenanta si interventii pe echipamente electromecanice si sisteme robotizate folosesc abilitatile de electronica, automatizare si service, desi nu este strict medical."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3410924",
@@ -84,10 +174,28 @@
     "status": "scraped",
     "tags": [
       "Circuite electronice",
-      "Sisteme embedded"
+      "Testare aparatura"
     ],
-    "matchPercentage": 75,
-    "reason": "Testare și mentenanță de echipamente electronice, cu sub 3 ani experiență cerută."
+    "matchPercentage": 64,
+    "reason": "Tehnician de electronica cu testare a unitatilor si instalare/intretinere a echipamentelor electronice, nivel entry-level (<3 ani), folosind direct competentele de electronica si testare."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153182257-working-student-in-verification-validation-test-automation",
+    "title": "Working Student in Verification &amp; Validation &amp; Test Automation",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-20T11:15:25.335Z",
+    "status": "scraped",
+    "tags": [
+      " testare",
+      "automatizare teste"
+    ],
+    "matchPercentage": 64,
+    "reason": "Working student in V&V si automatizarea testelor pe sisteme electronice, cu transfer direct din validare, testare si scriptare."
   },
   {
     "url": "https://multijobs.ro/job/desenator-tehnic-proiectant-autocad-2d/1411",
@@ -104,226 +212,43 @@
       "Desen tehnic",
       "Proiectare CAD/CAM"
     ],
-    "matchPercentage": 74,
-    "reason": "Desen tehnic și proiectare 2D CAD sunt competențe directe, dar domeniul nu e medical."
+    "matchPercentage": 63,
+    "reason": "Desenator tehnic/proiectant AutoCAD 2D este un rol de intrare care utilizeaza direct desenul tehnic si infografia inginereasca, chiar daca domeniul proiectelor este mai general."
   },
   {
-    "url": "https://careers.bmwtechworks.ro/jobs/8528985-industrial-automation-embedded-systems-engineer",
-    "title": "Industrial Automation &amp; Embedded Systems Engineer",
-    "company": "BMW TECHWORKS ROMANIA S.R.L.",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-19T12:08:29.986Z",
-    "status": "scraped",
-    "tags": [
-      "embedded",
-      "automatizare"
-    ],
-    "matchPercentage": 70,
-    "reason": "Sisteme embedded și automatizare transferabile ingineriei biomedicale."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/jobengineer",
-    "title": "Inginer instrumentație",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Brazi",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:14:32.551Z",
-    "status": "scraped",
-    "tags": [
-      "instrumentație",
-      "automatizare"
-    ],
-    "matchPercentage": 70,
-    "reason": "Inginerie de instrumentație și automatizare aplicabilă echipamentelor medicale."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/jobengineerinstrumentation",
-    "title": "Inginer instrumentație",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Brazi",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:14:32.551Z",
-    "status": "scraped",
-    "tags": [
-      "instrumentație",
-      "automatizare"
-    ],
-    "matchPercentage": 70,
-    "reason": "Inginerie de instrumentație și automatizare aplicabilă echipamentelor medicale."
-  },
-  {
-    "url": "https://fjobs.ro/job/operator-aparatura-tehnica-dentara/",
-    "title": "Operator aparatura tehnica…",
-    "company": "PROFESIONAL LEASING S.R.L.",
-    "location": [
-      "Bacau",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:00:37.822Z",
-    "status": "scraped",
-    "tags": [
-      "Proiectare CAD/CAM",
-      "Proiectarea echipamentelor medicale"
-    ],
-    "matchPercentage": 70,
-    "reason": "Operator aparatură tehnică dentară entry-level: lucrează direct cu echipamente medicale/dentare, potențial CAD/CAM, fără experiență obligatorie."
-  },
-  {
-    "url": "https://jobs.bosch.com/en/job/REF289650F-embedded-ai-software-engineer-mid-level",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144767549-embedded-ai-software-engineer-mid-level",
     "title": "Embedded AI Software Engineer Mid-Level",
-    "company": "BOSCH REXROTH S.R.L.",
+    "company": "ROBERT BOSCH SRL",
     "location": [
       "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:19:06.239Z",
-    "status": "scraped",
-    "tags": [
-      "Sisteme embedded",
-      "Microcontrolori"
-    ],
-    "matchPercentage": 70,
-    "reason": "Dezvoltare software embedded la nivel mid, care folosește direct competența de sisteme embedded și microcontrolori, deși nu e specific medical."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/AMCindustriaPetroliera",
-    "title": "Tehnician Instrumentație / AMC industria Petrolieră",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Brazi",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:17:55.341Z",
-    "status": "scraped",
-    "tags": [
-      "instrumentație",
-      "mentenanță"
-    ],
-    "matchPercentage": 68,
-    "reason": "Mentenanță și calibrare instrumentație electrică/electronică transferabile."
-  },
-  {
-    "url": "https://jobs.rinf.tech/231989",
-    "title": "Embedded AI/ML Platform Integration Engineer",
-    "company": "RINF OUTSOURCING SOLUTIONS SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:19.407Z",
+    "date": "2026-10-20T11:15:25.335Z",
     "status": "scraped",
     "tags": [
       "embedded",
-      "AI/ML"
+      "microcontrolori"
     ],
-    "matchPercentage": 65,
-    "reason": "Integrare embedded cu componente AI/ML relevante tehnic."
+    "matchPercentage": 63,
+    "reason": "Dezvoltare de sisteme embedded și microcontrolori la nivel mid, în Cluj – nivel potrivit și competențe tehnice direct transferabile, deși proiectul este automotive și nu medical."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3356339",
-    "title": "tehnician de radiologie ?i imagistica licen?iat",
-    "company": "RMN DIAGNOSTICA SRL",
-    "location": [
-      "Sibiu",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:21:58.493Z",
-    "status": "scraped",
-    "tags": [
-      "imagistică",
-      "CT"
-    ],
-    "matchPercentage": 65,
-    "reason": "Operare aparatură CT relevantă pentru cunoașterea echipamentelor medicale."
-  },
-  {
-    "url": "https://affidearomania.recruitee.com/o/tehnician-medical-radiologie-si-imagistica-oradea-sighetu-marmatiei-piatra-neamt",
-    "title": "Tehnician medical radiologie si imagistica -Oradea, Sighetu Marmatiei, Piatra Neamt",
-    "company": "AFFIDEA ROMANIA SRL",
-    "location": [
-      "Oradea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:15:44.561Z",
-    "status": "scraped",
-    "tags": [
-      "imagistică",
-      "IRM"
-    ],
-    "matchPercentage": 65,
-    "reason": "Operare aparatură IRM relevantă pentru cunoașterea echipamentelor medicale."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/inginer-tehnic-proiectare-cad-457wve",
-    "title": "Inginer Tehnic HVAC – Proiectare CAD",
-    "company": "ROVA TECH INSTALL S.R.L.",
+    "url": "https://www.teamland.ro/apply.php?id=1258#content",
+    "title": "Inginer proiectare si dezvoltare scule si dispozitive",
+    "company": "TEAMLAND SRL",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:15:12.061Z",
+    "date": "2026-10-17T12:16:02.143Z",
     "status": "scraped",
     "tags": [
-      "Proiectare CAD/CAM",
-      "Desen tehnic"
+      "proiectare CAD",
+      "desen tehnic"
     ],
     "matchPercentage": 62,
-    "reason": "Folosește competențe de CAD/desen tehnic, dar domeniul HVAC este doar parțial relevant pentru ingineria medicală."
-  },
-  {
-    "url": "https://www.randstad.ro/locuri-de-munca/tehnician-testare-finala-si-calitate-hvac-end-of-line-tester-italia_padova_5275/",
-    "title": "Tehnician Testare Finală și Calitate HVAC (End of Line Tester). Italia",
-    "company": "RANDSTAD ROMANIA SRL",
-    "location": [
-      "Padova",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-19T12:03:57.282Z",
-    "status": "scraped",
-    "tags": [
-      "Testare echipamente",
-      "Instrumentație medicală"
-    ],
-    "matchPercentage": 62,
-    "reason": "Tehnician de testare finală a echipamentelor folosește direct competențe de instrumentație, măsurare și testare, deși domeniul HVAC nu e medical."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-inginer-autocad-2",
-    "title": "TEHNICIAN/INGINER AUTOCAD",
-    "company": "MSM ALUMINIUM &amp; PVC SYSTEMS SRL",
-    "location": [
-      "Str. Splaiul Unirii",
-      "nr. 5B",
-      "Popesti-Leordeni",
-      "Ilfov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-16T13:03:33.895Z",
-    "status": "scraped",
-    "tags": [
-      "Proiectare CAD/CAM",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 60,
-    "reason": "Folosește competența de CAD/desen tehnic, dar descrierea lipsește și domeniul (aluminiu/PVC) e doar conex."
+    "reason": "Proiectarea de scule si dispozitive foloseste direct competentele de desen tehnic, proiectare CAD si analiza structurilor mecanice, chiar daca domeniul industrial este unul de productie metalica."
   }
 ]
