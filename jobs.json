@@ -11,11 +11,47 @@
     "date": "2026-10-17T12:00:36.032Z",
     "status": "scraped",
     "tags": [
-      "instrumentație medicală",
-      "mentenanță aparatură"
+      "service echipamente",
+      "instrumentatie medicala"
+    ],
+    "matchPercentage": 85,
+    "reason": "Instalare, mentenanță și depanare de aparatură medicală, potrivire directă cu competențele tehnice."
+  },
+  {
+    "url": "https://multijobs.ro/job/specialist-tehnic-aparatura-medicala-stomatologie/2363",
+    "title": "Specialist Tehnic aparatura medicala stomatologie",
+    "company": "HALMADENT SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:17:56.215Z",
+    "status": "scraped",
+    "tags": [
+      "mentenanță echipamente",
+      "aparatură medicală"
     ],
     "matchPercentage": 82,
-    "reason": "Service și mentenanță de aparatură medicală, folosind direct competențe de electronică și instrumentație medicală, nivel potrivit pentru absolvent."
+    "reason": "Specialist tehnic pentru aparatură medicală dentară folosește direct competențele de mentenanță și service echipamente medicale."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/controlor-calitate-productie-de-pentru-industria-medicala-erwz7j",
+    "title": "Controlor Calitate (Producție industria medicală)",
+    "company": "GMT  GERMAN MEDICAL TECHNOLOGY S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:13:17.889Z",
+    "status": "scraped",
+    "tags": [
+      "testare",
+      "certificare"
+    ],
+    "matchPercentage": 68,
+    "reason": "Controlul calității în producția de dispozitive medicale implică testare și verificare tehnică în domeniul medical, deși nu presupune proiectare."
   },
   {
     "url": "https://jobs.zollner.ro/jobposting/b6b83168c8d191aadedc69f020f5f0c82e6df9ee0",
@@ -32,8 +68,8 @@
       "circuite electronice",
       "testare"
     ],
-    "matchPercentage": 75,
-    "reason": "Post tehnic de inginerie a sistemelor de testare electronică, cu utilizarea directă a competențelor de circuite electronice și testare, la un producător care include și aplicații medicale."
+    "matchPercentage": 67,
+    "reason": "Inginer sisteme de testare electronică, folosește direct circuite electronice, analiză de defecte și sisteme de test, domeniu parțial relevant."
   },
   {
     "url": "https://careers.bmwtechworks.ro/jobs/8528985-industrial-automation-embedded-systems-engineer",
@@ -47,28 +83,28 @@
     "date": "2026-10-21T11:10:18.139Z",
     "status": "scraped",
     "tags": [
-      "sisteme embedded",
-      "automatizare"
+      "automatizare",
+      "sisteme embedded"
     ],
-    "matchPercentage": 68,
-    "reason": "Rol de automatizare industrială și sisteme embedded cu dezvoltare hardware/software, potrivire parțială pe competențele tehnice, dar context auto și nu medical."
+    "matchPercentage": 65,
+    "reason": "Rol de inginerie în automatizare și sisteme embedded, parțial relevant pentru competențele tehnice, dar nu în domeniul medical."
   },
   {
-    "url": "https://www.jobradar24.ro/anunt/controlor-calitate-productie-de-pentru-industria-medicala-erwz7j",
-    "title": "Controlor Calitate (Producție industria medicală)",
-    "company": "GMT  GERMAN MEDICAL TECHNOLOGY S.R.L.",
+    "url": "https://jobs.bosch.com/en/job/REF289650F-embedded-ai-software-engineer-mid-level",
+    "title": "Embedded AI Software Engineer Mid-Level",
+    "company": "BOSCH REXROTH S.R.L.",
     "location": [
-      "Bucuresti",
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:13:17.889Z",
+    "date": "2026-10-17T12:19:06.239Z",
     "status": "scraped",
     "tags": [
-      "Testare echipamente",
-      "Producție medicală"
+      "sisteme embedded",
+      "microcontrolatoare"
     ],
     "matchPercentage": 65,
-    "reason": "Control de calitate în producția de dispozitive medicale, aliniat cu competențele de testare și evaluare a aparaturii medicale."
+    "reason": "Poziție mid-level de embedded software, relevantă pentru sisteme embedded și microcontrolatoare."
   }
 ]
