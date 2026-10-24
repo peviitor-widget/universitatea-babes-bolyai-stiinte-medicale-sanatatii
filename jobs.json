@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://jobs.zollner.ro/jobposting/b6b83168c8d191aadedc69f020f5f0c82e6df9ee0",
+    "title": "Inginer sisteme de testare",
+    "company": "ZES ZOLLNER ELECTRONIC SRL",
+    "location": [
+      "Satu Mare",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:35.934Z",
+    "status": "scraped",
+    "tags": [
+      "electronice",
+      "testare"
+    ],
+    "matchPercentage": 90,
+    "reason": "Inginer sisteme de testare pentru electronice, relevant pentru aparatură medicală"
+  },
+  {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/inginer-service-echipamente-tehnico-medicale/99250067",
     "title": "Inginer Service Echipamente Tehnico-Medicale",
     "company": "PECEF TEHNICA SRL",
@@ -12,10 +30,10 @@
     "status": "scraped",
     "tags": [
       "service echipamente",
-      "instrumentatie medicala"
+      "electronica"
     ],
-    "matchPercentage": 85,
-    "reason": "Instalare, mentenanță și depanare de aparatură medicală, potrivire directă cu competențele tehnice."
+    "matchPercentage": 83,
+    "reason": "Instalarea, intretinerea si depanarea aparaturii medicale folosesc direct competentele de service si electronica medicala, la nivel de inginer."
   },
   {
     "url": "https://multijobs.ro/job/specialist-tehnic-aparatura-medicala-stomatologie/2363",
@@ -29,11 +47,29 @@
     "date": "2026-10-17T12:17:56.215Z",
     "status": "scraped",
     "tags": [
-      "mentenanță echipamente",
+      "service",
       "aparatură medicală"
     ],
-    "matchPercentage": 82,
-    "reason": "Specialist tehnic pentru aparatură medicală dentară folosește direct competențele de mentenanță și service echipamente medicale."
+    "matchPercentage": 75,
+    "reason": "Service/mentenanță aparatură medicală dentară, potrivit competențelor de instalare și service"
+  },
+  {
+    "url": "https://fjobs.ro/job/operator-aparatura-tehnica-dentara/",
+    "title": "Operator aparatura tehnica…",
+    "company": "PROFESIONAL LEASING S.R.L.",
+    "location": [
+      "Bacau",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:00:37.822Z",
+    "status": "scraped",
+    "tags": [
+      "aparatură",
+      "medicală"
+    ],
+    "matchPercentage": 75,
+    "reason": "Operare aparatură tehnică dentară, relevant pentru echipamente medicale"
   },
   {
     "url": "https://www.jobradar24.ro/anunt/controlor-calitate-productie-de-pentru-industria-medicala-erwz7j",
@@ -48,46 +84,46 @@
     "status": "scraped",
     "tags": [
       "testare",
-      "certificare"
+      "dispozitive medicale"
     ],
-    "matchPercentage": 68,
-    "reason": "Controlul calității în producția de dispozitive medicale implică testare și verificare tehnică în domeniul medical, deși nu presupune proiectare."
+    "matchPercentage": 72,
+    "reason": "Controlul calității în producția de dispozitive medicale valorifică testarea și evaluarea aparaturii medicale."
   },
   {
-    "url": "https://jobs.zollner.ro/jobposting/b6b83168c8d191aadedc69f020f5f0c82e6df9ee0",
-    "title": "Inginer sisteme de testare",
-    "company": "ZES ZOLLNER ELECTRONIC SRL",
+    "url": "https://jobs.rinf.tech/231989",
+    "title": "Embedded AI/ML Platform Integration Engineer",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
     "location": [
-      "Satu Mare",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:22:35.934Z",
+    "date": "2026-10-17T12:22:19.407Z",
     "status": "scraped",
     "tags": [
-      "circuite electronice",
-      "testare"
-    ],
-    "matchPercentage": 67,
-    "reason": "Inginer sisteme de testare electronică, folosește direct circuite electronice, analiză de defecte și sisteme de test, domeniu parțial relevant."
-  },
-  {
-    "url": "https://careers.bmwtechworks.ro/jobs/8528985-industrial-automation-embedded-systems-engineer",
-    "title": "Industrial Automation &amp; Embedded Systems Engineer",
-    "company": "BMW TECHWORKS ROMANIA S.R.L.",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-21T11:10:18.139Z",
-    "status": "scraped",
-    "tags": [
-      "automatizare",
-      "sisteme embedded"
+      "sisteme embedded",
+      "microcontrolori"
     ],
     "matchPercentage": 65,
-    "reason": "Rol de inginerie în automatizare și sisteme embedded, parțial relevant pentru competențele tehnice, dar nu în domeniul medical."
+    "reason": "Rol de inginer embedded cu integrare platforme AI/ML, potrivit partial pe sisteme embedded si microcontrolori."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3416731",
+    "title": "OPERATOR DISPECER SISTEME DE MONITORIZARE SI APARATURA DE CONTROL",
+    "company": "DAAS IMPEX SRL",
+    "location": [
+      "Buda",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:11:20.492Z",
+    "status": "scraped",
+    "tags": [
+      "monitorizare",
+      "automatizare"
+    ],
+    "matchPercentage": 65,
+    "reason": "Monitorizare sisteme de control, parțial relevant pentru achiziție date biologice"
   },
   {
     "url": "https://jobs.bosch.com/en/job/REF289650F-embedded-ai-software-engineer-mid-level",
@@ -102,9 +138,9 @@
     "status": "scraped",
     "tags": [
       "sisteme embedded",
-      "microcontrolatoare"
+      "automatizare"
     ],
     "matchPercentage": 65,
-    "reason": "Poziție mid-level de embedded software, relevantă pentru sisteme embedded și microcontrolatoare."
+    "reason": "Rol mid-level de inginerie embedded în automatizare, parțial aliniat cu sistemele embedded și microcontroloarele."
   }
 ]
