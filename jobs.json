@@ -11,11 +11,11 @@
     "date": "2026-10-17T12:00:36.032Z",
     "status": "scraped",
     "tags": [
-      "service",
-      "depanare"
+      "service medical",
+      "electronică"
     ],
-    "matchPercentage": 90,
-    "reason": "Service direct pe aparatură medico-tehnică, potrivit unui inginer biomedical entry-level."
+    "matchPercentage": 88,
+    "reason": "Jobul implică instalarea, întreținerea, depanarea și testarea aparaturii medicale, potrivit competențelor de service și electronică medicală."
   },
   {
     "url": "https://multijobs.ro/job/specialist-tehnic-aparatura-medicala-stomatologie/2363",
@@ -29,29 +29,29 @@
     "date": "2026-10-17T12:17:56.215Z",
     "status": "scraped",
     "tags": [
-      "service echipamente",
-      "testare aparatură"
+      "aparatură medicală",
+      "service"
     ],
     "matchPercentage": 85,
-    "reason": "Întreținerea și service-ul aparaturii medicale stomatologice folosesc direct competențele de mentenanță și testare a echipamentelor medicale."
+    "reason": "Se potrivește direct cu instalarea, service-ul și testarea aparaturii medicale stomatologice."
   },
   {
-    "url": "https://www.jobradar24.ro/anunt/controlor-calitate-productie-de-pentru-industria-medicala-erwz7j",
-    "title": "Controlor Calitate (Producție industria medicală)",
-    "company": "GMT  GERMAN MEDICAL TECHNOLOGY S.R.L.",
+    "url": "https://careers.bmwtechworks.ro/jobs/8528985-industrial-automation-embedded-systems-engineer",
+    "title": "Industrial Automation &amp; Embedded Systems Engineer",
+    "company": "BMW TECHWORKS ROMANIA S.R.L.",
     "location": [
-      "Bucuresti",
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:13:17.889Z",
+    "date": "2026-10-21T11:10:18.139Z",
     "status": "scraped",
     "tags": [
-      "calitate",
-      "testare"
+      "sisteme embedded",
+      "automatizare"
     ],
-    "matchPercentage": 85,
-    "reason": "Controlul calității în producția industriei medicale se potrivește direct competențelor tale."
+    "matchPercentage": 72,
+    "reason": "Rol de inginer în automatizare industrială și sisteme embedded, care folosește direct competențele de microcontrolatoare, electronică și automatizare, la un nivel potrivit de junior/mid."
   },
   {
     "url": "https://jobs.zollner.ro/jobposting/b6b83168c8d191aadedc69f020f5f0c82e6df9ee0",
@@ -65,46 +65,28 @@
     "date": "2026-10-17T12:22:35.934Z",
     "status": "scraped",
     "tags": [
-      "Circuite electronice",
-      "Sisteme embedded"
+      "electronică",
+      "testare"
     ],
-    "matchPercentage": 75,
-    "reason": "Sisteme de testare electronică, relevant parțial."
+    "matchPercentage": 68,
+    "reason": "Post de inginer testare electronică cu programe de test, analiză de plăci și mentenanță, potrivit ca nivel, dar doar parțial legat de aparatura medicală."
   },
   {
-    "url": "https://multijobs.ro/job/desenator-tehnic-2d-cad/1769",
-    "title": "Desenator Tehnic 2D CAD",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://www.jobradar24.ro/anunt/controlor-calitate-productie-de-pentru-industria-medicala-erwz7j",
+    "title": "Controlor Calitate (Producție industria medicală)",
+    "company": "GMT  GERMAN MEDICAL TECHNOLOGY S.R.L.",
     "location": [
-      "Alba Iulia",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:15:42.731Z",
+    "date": "2026-10-17T12:13:17.889Z",
     "status": "scraped",
     "tags": [
-      "Desen tehnic",
-      "CAD"
-    ],
-    "matchPercentage": 66,
-    "reason": "Desenul tehnic 2D CAD folosește direct competențele de proiectare CAD și desen tehnic, deși nu este specific aparaturii medicale."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3416731",
-    "title": "OPERATOR DISPECER SISTEME DE MONITORIZARE SI APARATURA DE CONTROL",
-    "company": "DAAS IMPEX SRL",
-    "location": [
-      "Buda",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:11:20.492Z",
-    "status": "scraped",
-    "tags": [
-      "Achiziție date",
-      "Monitorizare"
+      "testare",
+      "certificare"
     ],
     "matchPercentage": 65,
-    "reason": "Monitorizare și achiziție de date, relevant parțial."
+    "reason": "Controlul calității în producția de tehnologie medicală se aliniază parțial cu testarea și certificarea echipamentelor medicale."
   }
 ]
