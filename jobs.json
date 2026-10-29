@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://multijobs.ro/job/specialist-tehnic-aparatura-medicala-stomatologie/2363",
+    "title": "Specialist Tehnic aparatura medicala stomatologie",
+    "company": "HALMADENT SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:17:56.215Z",
+    "status": "scraped",
+    "tags": [
+      "service echipamente",
+      "testare aparatură"
+    ],
+    "matchPercentage": 90,
+    "reason": "Specialist tehnic în aparatură medicală stomatologică, cu activitate directă de service, testare și întreținere a echipamentelor medicale."
+  },
+  {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/inginer-service-echipamente-tehnico-medicale/99250067",
     "title": "Inginer Service Echipamente Tehnico-Medicale",
     "company": "PECEF TEHNICA SRL",
@@ -11,83 +29,29 @@
     "date": "2026-10-17T12:00:36.032Z",
     "status": "scraped",
     "tags": [
-      "service",
-      "mentenanță"
+      "service echipamente",
+      "mentenanță medicală"
     ],
-    "matchPercentage": 95,
-    "reason": "Service direct de aparatură medicală, potrivit pentru un nivel entry-level."
+    "matchPercentage": 88,
+    "reason": "Job de service pentru aparatură medicală, cu instalare, mentenanță și depanare, potrivit competențelor tehnice."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3356339",
-    "title": "tehnician de radiologie ?i imagistica licen?iat",
-    "company": "RMN DIAGNOSTICA SRL",
+    "url": "https://jobs.zollner.ro/jobposting/b6b83168c8d191aadedc69f020f5f0c82e6df9ee0",
+    "title": "Inginer sisteme de testare",
+    "company": "ZES ZOLLNER ELECTRONIC SRL",
     "location": [
-      "Sibiu",
+      "Satu Mare",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:21:58.493Z",
+    "date": "2026-10-17T12:22:35.934Z",
     "status": "scraped",
     "tags": [
-      "imagistică",
-      "radiologie"
+      "circuite electronice",
+      "testare"
     ],
-    "matchPercentage": 85,
-    "reason": "Radiology technician, directly uses medical imaging competence."
-  },
-  {
-    "url": "https://affidearomania.recruitee.com/o/medic-radiologie-imagistica-garzi-teleradiologie",
-    "title": "Medic radiologie imagistica- Garzi Teleradiologie",
-    "company": "AFFIDEA ROMANIA SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:15:44.561Z",
-    "status": "scraped",
-    "tags": [
-      "imagistică",
-      "radiologie"
-    ],
-    "matchPercentage": 85,
-    "reason": "Radiology medical doctor, imaging interpretation relevant."
-  },
-  {
-    "url": "https://affidearomania.recruitee.com/o/tehnician-medical-radiologie-si-imagistica-oradea-sighetu-marmatiei-piatra-neamt",
-    "title": "Tehnician medical radiologie si imagistica -Oradea, Sighetu Marmatiei, Piatra Neamt",
-    "company": "AFFIDEA ROMANIA SRL",
-    "location": [
-      "Oradea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:15:44.561Z",
-    "status": "scraped",
-    "tags": [
-      "imagistică",
-      "IRM"
-    ],
-    "matchPercentage": 85,
-    "reason": "Radiology/MRI technician, directly uses medical imaging."
-  },
-  {
-    "url": "https://cariere.reginamaria.ro/company/regina-maria-1/jobs/asistent-medical-generalist-imagistica-1",
-    "title": "Asistent Medical Generalist - Imagistica",
-    "company": "REGINA MARIA - BANCA CENTRALĂ DE CELULE STEM S.A.",
-    "location": [
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:14:31.586Z",
-    "status": "scraped",
-    "tags": [
-      "imagistică",
-      "asistență"
-    ],
-    "matchPercentage": 85,
-    "reason": "Nurse in imaging, uses contrast/admin and imaging protocols."
+    "matchPercentage": 75,
+    "reason": "Inginer sisteme de testare cu analiza plăcilor electronice și dezvoltare de programe de test, potrivit nivelului entry/mid și competențelor electronice."
   },
   {
     "url": "https://www.jobradar24.ro/anunt/controlor-calitate-productie-de-pentru-industria-medicala-erwz7j",
@@ -101,64 +65,28 @@
     "date": "2026-10-17T12:13:17.889Z",
     "status": "scraped",
     "tags": [
-      "calitate",
+      "testare aparatură",
+      "producție medicală"
+    ],
+    "matchPercentage": 65,
+    "reason": "Controlul calității în producția de dispozitive medicale valorifică testarea și evaluarea aparaturii medicale."
+  },
+  {
+    "url": "https://jobs.zollner.ro/jobposting/200cf519cd47080273854a74b5851a118191051b0",
+    "title": "Tehnician electronică",
+    "company": "ZES ZOLLNER ELECTRONIC SRL",
+    "location": [
+      "Satu Mare",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:05:05.442Z",
+    "status": "scraped",
+    "tags": [
+      "electronică",
       "testare"
     ],
-    "matchPercentage": 75,
-    "reason": "Control calitate în producție medicală, relevant pentru testare aparatură medicală"
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/AMCindustriaPetroliera",
-    "title": "Tehnician Instrumentație / AMC industria Petrolieră",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Brazi",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:17:55.341Z",
-    "status": "scraped",
-    "tags": [
-      "instrumentație",
-      "automatizări"
-    ],
-    "matchPercentage": 75,
-    "reason": "Instrumentation for oil/gas AMC, overlaps with medical instrumentation."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/jobengineer",
-    "title": "Inginer instrumentație",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Brazi",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:14:32.551Z",
-    "status": "scraped",
-    "tags": [
-      "instrumentație",
-      "automatizări"
-    ],
-    "matchPercentage": 75,
-    "reason": "Instrumentation engineering, relevant to medical instrumentation."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/jobengineerinstrumentation",
-    "title": "Inginer instrumentație",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Brazi",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:14:32.551Z",
-    "status": "scraped",
-    "tags": [
-      "instrumentație",
-      "automatizări"
-    ],
-    "matchPercentage": 75,
-    "reason": "Instrumentation engineering, relevant to medical instrumentation."
+    "matchPercentage": 62,
+    "reason": "Testare și depanare plăci electronice folosesc competențe de electronică și testare, la un nivel mid accesibil."
   }
 ]
