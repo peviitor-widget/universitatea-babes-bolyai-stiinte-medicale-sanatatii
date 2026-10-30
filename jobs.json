@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/inginer-service-echipamente-tehnico-medicale/99250067",
+    "title": "Inginer Service Echipamente Tehnico-Medicale",
+    "company": "PECEF TEHNICA SRL",
+    "location": [
+      "Craiova",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:00:36.032Z",
+    "status": "scraped",
+    "tags": [
+      "instalare echipamente",
+      "mentenanță"
+    ],
+    "matchPercentage": 85,
+    "reason": "Instalare, mentenanță, diagnosticare și reparare de aparatură medicală, cu nivel entry-level (experiența e doar avantaj)."
+  },
+  {
     "url": "https://multijobs.ro/job/specialist-tehnic-aparatura-medicala-stomatologie/2363",
     "title": "Specialist Tehnic aparatura medicala stomatologie",
     "company": "HALMADENT SRL",
@@ -14,44 +32,8 @@
       "service echipamente",
       "testare aparatură"
     ],
-    "matchPercentage": 90,
-    "reason": "Specialist tehnic în aparatură medicală stomatologică, cu activitate directă de service, testare și întreținere a echipamentelor medicale."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/inginer-service-echipamente-tehnico-medicale/99250067",
-    "title": "Inginer Service Echipamente Tehnico-Medicale",
-    "company": "PECEF TEHNICA SRL",
-    "location": [
-      "Craiova",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:00:36.032Z",
-    "status": "scraped",
-    "tags": [
-      "service echipamente",
-      "mentenanță medicală"
-    ],
-    "matchPercentage": 88,
-    "reason": "Job de service pentru aparatură medicală, cu instalare, mentenanță și depanare, potrivit competențelor tehnice."
-  },
-  {
-    "url": "https://jobs.zollner.ro/jobposting/b6b83168c8d191aadedc69f020f5f0c82e6df9ee0",
-    "title": "Inginer sisteme de testare",
-    "company": "ZES ZOLLNER ELECTRONIC SRL",
-    "location": [
-      "Satu Mare",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:35.934Z",
-    "status": "scraped",
-    "tags": [
-      "circuite electronice",
-      "testare"
-    ],
-    "matchPercentage": 75,
-    "reason": "Inginer sisteme de testare cu analiza plăcilor electronice și dezvoltare de programe de test, potrivit nivelului entry/mid și competențelor electronice."
+    "matchPercentage": 82,
+    "reason": "Specialist tehnic pentru aparatură medicală dentară, cu service și testare direct relevante."
   },
   {
     "url": "https://www.jobradar24.ro/anunt/controlor-calitate-productie-de-pentru-industria-medicala-erwz7j",
@@ -66,27 +48,45 @@
     "status": "scraped",
     "tags": [
       "testare aparatură",
-      "producție medicală"
+      "control calitate"
     ],
-    "matchPercentage": 65,
-    "reason": "Controlul calității în producția de dispozitive medicale valorifică testarea și evaluarea aparaturii medicale."
+    "matchPercentage": 78,
+    "reason": "Controlul calității în producția de dispozitive medicale folosește direct competențele de testare, evaluare și certificare a aparaturii medicale."
   },
   {
-    "url": "https://jobs.zollner.ro/jobposting/200cf519cd47080273854a74b5851a118191051b0",
-    "title": "Tehnician electronică",
+    "url": "https://jobs.zollner.ro/jobposting/b6b83168c8d191aadedc69f020f5f0c82e6df9ee0",
+    "title": "Inginer sisteme de testare",
     "company": "ZES ZOLLNER ELECTRONIC SRL",
     "location": [
       "Satu Mare",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:05:05.442Z",
+    "date": "2026-10-17T12:22:35.934Z",
     "status": "scraped",
     "tags": [
       "electronică",
       "testare"
     ],
+    "matchPercentage": 76,
+    "reason": "Inginer de testare pentru electronice, cu programe de test, analiză de circuite și mentenanță de sisteme, potrivit competențelor tehnice."
+  },
+  {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/technical-internship-at-aumovio-tm/96894",
+    "title": "Technical Internship at AUMOVIO (TM)",
+    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:49.268Z",
+    "status": "scraped",
+    "tags": [
+      "electronica",
+      "testare"
+    ],
     "matchPercentage": 62,
-    "reason": "Testare și depanare plăci electronice folosesc competențe de electronică și testare, la un nivel mid accesibil."
+    "reason": "Internship tehnic care poate implica proiectare hardware, sisteme si testare, competente tehnice partial transferabile din ingineria medicala."
   }
 ]
