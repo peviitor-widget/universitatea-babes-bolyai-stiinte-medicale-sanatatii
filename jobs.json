@@ -11,11 +11,11 @@
     "date": "2026-10-17T12:00:36.032Z",
     "status": "scraped",
     "tags": [
-      "service medical",
-      "electronică"
+      "service echipamente medicale",
+      "diagnosticare"
     ],
-    "matchPercentage": 88,
-    "reason": "Jobul presupune instalarea, depanarea și mentenanța aparaturii medicale, folosind direct competențele de electronică și service medical, iar experiența este doar un avantaj."
+    "matchPercentage": 85,
+    "reason": "Inginer service pentru aparatura medicala: instalare, mentenanta si depanare, direct pe competentele tale."
   },
   {
     "url": "https://multijobs.ro/job/specialist-tehnic-aparatura-medicala-stomatologie/2363",
@@ -29,11 +29,11 @@
     "date": "2026-10-17T12:17:56.215Z",
     "status": "scraped",
     "tags": [
-      "service echipamente medicale",
-      "testare aparatură medicală"
+      "mentenanță echipamente",
+      "service"
     ],
-    "matchPercentage": 85,
-    "reason": "Specialist tehnic pentru aparatură medicală stomatologică, aplică direct competențele de mentenanță și service ale echipamentelor medicale."
+    "matchPercentage": 82,
+    "reason": "Specialist tehnic pentru aparatură medicală stomatologică implică instalare, mentenanță și service, direct relevant."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3439388",
@@ -47,100 +47,11 @@
     "date": "2026-11-09T15:13:19.412Z",
     "status": "scraped",
     "tags": [
-      "electronică",
-      "testare"
-    ],
-    "matchPercentage": 78,
-    "reason": "Tehnician electronică folosește direct competențele de circuite electronice și testare, cu experiență sub 3 ani."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160562749-working-student-laboratory-support-electronics-testing",
-    "title": "Working Student Laboratory Support (Electronics Testing)",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-09T15:48:17.854Z",
-    "status": "scraped",
-    "tags": [
-      "electronică",
-      "testare"
-    ],
-    "matchPercentage": 75,
-    "reason": "Activitățile de analiză electronică, diagnostic și testare se potrivesc parțial cu competențele de circuite electronice și testare."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/controlor-calitate-productie-de-pentru-industria-medicala-erwz7j",
-    "title": "Controlor Calitate (Producție industria medicală)",
-    "company": "GMT  GERMAN MEDICAL TECHNOLOGY S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:13:17.889Z",
-    "status": "scraped",
-    "tags": [
-      "testare certificare",
-      "producție echipamente"
-    ],
-    "matchPercentage": 70,
-    "reason": "Control calitate în producția de echipamente medicale (GMT), domeniu direct relevant și nivel accesibil absolvenților."
-  },
-  {
-    "url": "https://multijobs.ro/job/desenator-tehnic-2d-cad/1769",
-    "title": "Desenator Tehnic 2D CAD",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Alba Iulia",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:15:42.731Z",
-    "status": "scraped",
-    "tags": [
-      "CAD",
-      "desen tehnic"
+      "Electronică",
+      "Embedded"
     ],
     "matchPercentage": 68,
-    "reason": "Desenare tehnică 2D CAD folosește direct competențele de desen tehnic și CAD/CAM, deși nu este un domeniu medical."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159657425-working-student-embedded-adas-software",
-    "title": "Working Student Embedded ADAS Software",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-09T15:48:17.854Z",
-    "status": "scraped",
-    "tags": [
-      "sisteme embedded",
-      "procesare de semnale"
-    ],
-    "matchPercentage": 68,
-    "reason": "Working student pe software embedded și computer vision pentru ADAS, nivel potrivit și competențe embedded/procesare de semnale direct utilizate."
-  },
-  {
-    "url": "https://apply.workable.com/j/93AABAA821",
-    "title": "Embedded C Software Engineer | Aviation",
-    "company": "GARMIN CLUJ SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-09T14:39:13.497Z",
-    "status": "scraped",
-    "tags": [
-      "sisteme embedded",
-      "microcontrolori"
-    ],
-    "matchPercentage": 68,
-    "reason": "Dezvoltarea software embedded în C pentru aviație folosește direct competențele de sisteme embedded și microcontrolori, deși domeniul nu este medical."
+    "reason": "Tehnician electronică entry-level care valorifică competențele de electronică și embedded, potrivire parțială fără context medical explicit."
   },
   {
     "url": "https://jobs.zollner.ro/jobposting/b6b83168c8d191aadedc69f020f5f0c82e6df9ee0",
@@ -154,85 +65,63 @@
     "date": "2026-10-17T12:22:35.934Z",
     "status": "scraped",
     "tags": [
-      "circuite electronice",
+      "electronica",
       "testare"
     ],
     "matchPercentage": 68,
-    "reason": "Inginer sisteme de testare pentru electronică, cu analiză de circuite, depanare și mentenanță, potrivit competențelor de electronică și testare."
+    "reason": "Inginer de testare pentru plăci electronice, folosește electronica și testarea, potrivire parțială cu domeniul medical."
   },
   {
-    "url": "https://careers.bmwtechworks.ro/jobs/8528985-industrial-automation-embedded-systems-engineer",
-    "title": "Industrial Automation &amp; Embedded Systems Engineer",
-    "company": "BMW TECHWORKS ROMANIA S.R.L.",
+    "url": "https://www.jobradar24.ro/anunt/controlor-calitate-productie-de-pentru-industria-medicala-erwz7j",
+    "title": "Controlor Calitate (Producție industria medicală)",
+    "company": "GMT  GERMAN MEDICAL TECHNOLOGY S.R.L.",
     "location": [
-      "Cluj-Napoca",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-21T11:10:18.139Z",
+    "date": "2026-10-17T12:13:17.889Z",
     "status": "scraped",
     "tags": [
-      "automatizare",
-      "electronica"
+      "Testare echipamente",
+      "Producție medicală"
     ],
-    "matchPercentage": 66,
-    "reason": "Automatizarea industrială și dezvoltarea embedded folosesc competențe de automatizare, electronică și microcontrolori, dar în domeniul auto/industrial, nu medical."
+    "matchPercentage": 65,
+    "reason": "Control al calitatii in productia de echipamente medicale, folosind testare si evaluare a dispozitivelor."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-inginer-autocad-2",
-    "title": "TEHNICIAN/INGINER AUTOCAD",
-    "company": "MSM ALUMINIUM &amp; PVC SYSTEMS SRL",
+    "url": "https://multijobs.ro/job/desenator-tehnic-2d-cad/1769",
+    "title": "Desenator Tehnic 2D CAD",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "Str. Splaiul Unirii",
-      "nr. 5B",
-      "Popesti-Leordeni",
-      "Ilfov",
+      "Alba Iulia",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:03:33.895Z",
+    "date": "2026-10-17T12:15:42.731Z",
     "status": "scraped",
     "tags": [
-      "AutoCAD",
-      "proiectare CAD"
+      "Desen tehnic",
+      "CAD"
     ],
-    "matchPercentage": 63,
-    "reason": "Tehnician/inginer AutoCAD folosește proiectarea CAD, deși domeniul tâmplăriei metalice/PVC este doar tangențial."
+    "matchPercentage": 65,
+    "reason": "Post entry-level de desenare tehnică 2D care folosește direct competențele de CAD și desen tehnic, deși nu este specific dispozitivelor medicale."
   },
   {
-    "url": "https://multijobs.ro/job/desenator-tehnic-proiectant-autocad-2d/1411",
-    "title": "Desenator tehnic/proiectant autocad 2D",
-    "company": "FLAROM ADVERTISING SRL",
-    "location": [
-      "Constanta",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:18:53.462Z",
-    "status": "scraped",
-    "tags": [
-      "AutoCAD",
-      "desen tehnic"
-    ],
-    "matchPercentage": 62,
-    "reason": "Proiectare AutoCAD 2D valorifică desenul tehnic și CAD, dar contextul de publicitate este doar parțial relevant."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156289169-working-student-in-embedded-software-development-high-level",
-    "title": "Working Student in Embedded Software Development - High Level",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160562749-working-student-laboratory-support-electronics-testing",
+    "title": "Working Student Laboratory Support (Electronics Testing)",
     "company": "ROBERT BOSCH SRL",
     "location": [
-      "Cluj-Napoca",
-      "Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-11-09T15:48:17.854Z",
+    "date": "2026-11-10T14:39:30.855Z",
     "status": "scraped",
     "tags": [
-      "sisteme embedded",
-      "Python"
+      "electronică",
+      "testare"
     ],
-    "matchPercentage": 62,
-    "reason": "Working student în dezvoltare software embedded, nivel de student și competențe embedded/programare aplicabile."
+    "matchPercentage": 65,
+    "reason": "Analiză electronică și testare de componente, potrivit parțial cu competențele de circuite și testare."
   }
 ]
