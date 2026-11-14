@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539-working-student-embedded-adas-software",
+    "title": "Working Student Embedded ADAS Software",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "sisteme embedded",
+      "procesare semnale"
+    ],
+    "matchPercentage": 68,
+    "reason": "Working student pe software embedded și computer vision, nivel potrivit și competențe embedded directe."
+  },
+  {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3439388",
     "title": "TEHNICIAN ELECTRONICA",
     "company": "AROBS TRANSILVANIA SOFTWARE S.A.",
@@ -8,13 +26,49 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-13T07:05:28.408Z",
+    "date": "2026-11-13T13:56:40.454Z",
     "status": "scraped",
     "tags": [
       "circuite electronice",
-      "testare"
+      "instrumentație"
     ],
     "matchPercentage": 65,
-    "reason": "Post entry-level de tehnician electronică, potrivit parțial pentru competențele de circuite electronice și testare, dar fără legătură explicită cu aparatura medicală."
+    "reason": "Tehnician electronică cu sub 3 ani experiență, folosește circuite electronice și instrumentație, potrivire parțială."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156518857-embedded-software-engineer-adas-functions-realization-for-driving",
+    "title": "Embedded Software Engineer – ADAS Functions Realization for Driving",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:22:01.036Z",
+    "status": "scraped",
+    "tags": [
+      "sisteme embedded",
+      "microcontrolori"
+    ],
+    "matchPercentage": 63,
+    "reason": "Inginer software embedded pentru funcții ADAS, nivel accesibil și competențe embedded relevante."
+  },
+  {
+    "url": "https://apply.workable.com/j/93AABAA821",
+    "title": "Embedded C Software Engineer | Aviation",
+    "company": "GARMIN CLUJ SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T13:36:31.198Z",
+    "status": "scraped",
+    "tags": [
+      "sisteme embedded",
+      "microcontrolori"
+    ],
+    "matchPercentage": 62,
+    "reason": "Inginer software embedded C în aviație, folosește programare embedded la nivel junior/mid."
   }
 ]
