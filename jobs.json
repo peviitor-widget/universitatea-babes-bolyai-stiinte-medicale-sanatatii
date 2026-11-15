@@ -1,59 +1,5 @@
 [
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539-working-student-embedded-adas-software",
-    "title": "Working Student Embedded ADAS Software",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-13T14:22:01.036Z",
-    "status": "scraped",
-    "tags": [
-      "sisteme embedded",
-      "procesare semnale"
-    ],
-    "matchPercentage": 68,
-    "reason": "Working student pe software embedded și computer vision, nivel potrivit și competențe embedded directe."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3439388",
-    "title": "TEHNICIAN ELECTRONICA",
-    "company": "AROBS TRANSILVANIA SOFTWARE S.A.",
-    "location": [
-      "CLUJ-NAPOCA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-13T13:56:40.454Z",
-    "status": "scraped",
-    "tags": [
-      "circuite electronice",
-      "instrumentație"
-    ],
-    "matchPercentage": 65,
-    "reason": "Tehnician electronică cu sub 3 ani experiență, folosește circuite electronice și instrumentație, potrivire parțială."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156518857-embedded-software-engineer-adas-functions-realization-for-driving",
-    "title": "Embedded Software Engineer – ADAS Functions Realization for Driving",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-13T14:22:01.036Z",
-    "status": "scraped",
-    "tags": [
-      "sisteme embedded",
-      "microcontrolori"
-    ],
-    "matchPercentage": 63,
-    "reason": "Inginer software embedded pentru funcții ADAS, nivel accesibil și competențe embedded relevante."
-  },
-  {
     "url": "https://apply.workable.com/j/93AABAA821",
     "title": "Embedded C Software Engineer | Aviation",
     "company": "GARMIN CLUJ SRL",
@@ -62,13 +8,30 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-13T13:36:31.198Z",
+    "date": "2026-11-14T12:41:30.046Z",
     "status": "scraped",
     "tags": [
       "sisteme embedded",
-      "microcontrolori"
+      "microcontroloare"
     ],
-    "matchPercentage": 62,
-    "reason": "Inginer software embedded C în aviație, folosește programare embedded la nivel junior/mid."
+    "matchPercentage": 68,
+    "reason": "Dezvoltare embedded/microcontrolori se potriveste cu competentele tehnice, desi domeniul este aviatie si nu medical, iar nivelul pare accesibil."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160562749-working-student-laboratory-support-electronics-testing",
+    "title": "Working Student Laboratory Support (Electronics Testing)",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-14T13:17:33.600Z",
+    "status": "scraped",
+    "tags": [
+      "electronică",
+      "testare"
+    ],
+    "matchPercentage": 65,
+    "reason": "Analiză și testare electronică de componente și ansambluri, potrivit parțial cu competențele de electronică și testare, deși contextul este automotive."
   }
 ]
