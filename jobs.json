@@ -1,1 +1,145 @@
-[]
+[
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3366286",
+    "title": "TEHNICIAN ELECTRONICA",
+    "company": "DIGITAL BIT SRL",
+    "location": [
+      "BUCURESTI SECTORUL 2",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "tested",
+    "tags": [
+      "Circuite electronice",
+      "Instrumentație"
+    ],
+    "matchPercentage": 82,
+    "reason": "Lucrul cu microcircuite, scheme electronice, aparate de măsură și automatizări folosește direct competențele de bază, fără experiență anterioară."
+  },
+  {
+    "url": "https://multijobs.ro/job/inginer-punere-in-functiune-a-echipamentelor-electrice/6751",
+    "title": "Inginer punere in functiune a echipamentelor electrice",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Galati",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:25:15Z",
+    "status": "tested",
+    "tags": [
+      "punere în funcțiune",
+      "instalații electrice"
+    ],
+    "matchPercentage": 72,
+    "reason": "Punerea în funcțiune a echipamentelor electrice folosește direct competențele de instalare, punere în funcțiune și instalații electrice, la nivel entry/mid."
+  },
+  {
+    "url": "https://jobs.rinf.tech/232674",
+    "title": "C/C++ Embedded Developer",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:06:34Z",
+    "status": "tested",
+    "tags": [
+      "Sisteme embedded",
+      "Microcontrolori"
+    ],
+    "matchPercentage": 72,
+    "reason": "Dezvoltare embedded în C/C++ fără cerință de senior, folosește direct competența de sisteme embedded."
+  },
+  {
+    "url": "https://jobs.rinf.tech/230966",
+    "title": "Embedded Software Engineer",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:30:51Z",
+    "status": "tested",
+    "tags": [
+      "Sisteme embedded",
+      "Microcontrolori"
+    ],
+    "matchPercentage": 72,
+    "reason": "Inginer software embedded fără restricție de nivel, competență directă în sisteme și microcontrolori."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3343191",
+    "title": "INGINER ELECTROTEHNIST",
+    "company": "GERVIS SA",
+    "location": [
+      "SCHEIA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "tested",
+    "tags": [
+      "instalații electrice",
+      "proiectare"
+    ],
+    "matchPercentage": 70,
+    "reason": "Inginer electrotehnist cu proiectare și documentație tehnică, sub 3 ani experiență, domeniu electric parțial relevant."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272218/Hipo-Job-Finder/Tehnician-analiza-calitatii-(4-schimburi---Electronica)-F/M---Marquardt",
+    "title": "Tehnician analiza calitatii (4 schimburi - Electronica) F/M - Marquardt",
+    "company": "HIPO COMPANY GRUP SRL",
+    "location": [
+      "Sibiu",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:16:28Z",
+    "status": "tested",
+    "tags": [
+      "Testare",
+      "Fiabilitate"
+    ],
+    "matchPercentage": 65,
+    "reason": "Analiză de calitate în electronică, nivel 1-5 ani, cu sarcini de testare și fiabilitate."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149617139",
+    "title": "Working Student - Digitalization Team",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Blaj",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:04:00Z",
+    "status": "tested",
+    "tags": [
+      "procesare date",
+      "statistică"
+    ],
+    "matchPercentage": 65,
+    "reason": "Working student pe validare de structuri de date și analiză SQL pentru rapoarte, domeniu parțial legat de procesarea datelor."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156518857",
+    "title": "Embedded Software Engineer – ADAS Functions Realization for Driving",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:35:09Z",
+    "status": "tested",
+    "tags": [
+      "Sisteme embedded"
+    ],
+    "matchPercentage": 62,
+    "reason": "Dezvoltare embedded de funcții ADAS, domeniu automotive doar parțial înrudit, dar cu competență embedded aplicată direct."
+  }
+]
