@@ -1,5 +1,77 @@
 [
   {
+    "url": "https://multijobs.ro/job/specialist-tehnic-aparatura-medicala-stomatologie/2363",
+    "title": "Specialist Tehnic aparatura medicala stomatologie",
+    "company": "HALMADENT SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T14:28:54Z",
+    "status": "tested",
+    "tags": [
+      "mentenanță",
+      "aparatură medicală"
+    ],
+    "matchPercentage": 88,
+    "reason": "Specialist tehnic pentru aparatură medicală stomatologică, rol entry-level cu sarcini directe de mentenanță și service."
+  },
+  {
+    "url": "https://apply.workable.com/j/93AABAA821",
+    "title": "Embedded C Software Engineer | Aviation",
+    "company": "GARMIN CLUJ SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:06:46.012Z",
+    "status": "scraped",
+    "tags": [
+      "sisteme embedded",
+      "microcontrolori"
+    ],
+    "matchPercentage": 82,
+    "reason": "Dezvoltarea de software embedded C folosește direct competențele de sisteme embedded și microcontrolori, iar postul nu cere senioritate."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/schaeffler/18651/embedded-software-eng",
+    "title": "Embedded Software Eng.",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T14:40:24Z",
+    "status": "tested",
+    "tags": [
+      "sisteme embedded",
+      "microcontrolori"
+    ],
+    "matchPercentage": 80,
+    "reason": "Poziția de inginer software embedded folosește direct competențele de sisteme embedded, fără cerințe de senioritate."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271597/SCHAEFFLER/Embedded-Software-Eng.",
+    "title": "Embedded Software Eng.",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:35:41Z",
+    "status": "tested",
+    "tags": [
+      "sisteme embedded",
+      "microcontrolori"
+    ],
+    "matchPercentage": 80,
+    "reason": "Același rol de inginer software embedded la Schaeffler, potrivit ca domeniu și ca nivel."
+  },
+  {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3366286",
     "title": "TEHNICIAN ELECTRONICA",
     "company": "DIGITAL BIT SRL",
@@ -14,80 +86,167 @@
       "Circuite electronice",
       "Instrumentație"
     ],
-    "matchPercentage": 82,
-    "reason": "Lucrul cu microcircuite, scheme electronice, aparate de măsură și automatizări folosește direct competențele de bază, fără experiență anterioară."
+    "matchPercentage": 78,
+    "reason": "Lucrul cu microcircuite, scheme electronice și aparate de măsură folosește direct competențele de circuite și instrumentație, fără experiență anterioară."
   },
   {
-    "url": "https://multijobs.ro/job/inginer-punere-in-functiune-a-echipamentelor-electrice/6751",
-    "title": "Inginer punere in functiune a echipamentelor electrice",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539-working-student-embedded-adas-software",
+    "title": "Working Student Embedded ADAS Software",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "Galati",
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T12:25:15Z",
-    "status": "tested",
+    "date": "2026-11-17T15:46:31.371Z",
+    "status": "scraped",
     "tags": [
-      "punere în funcțiune",
-      "instalații electrice"
+      "Sisteme embedded",
+      "Microcontrolori"
     ],
-    "matchPercentage": 72,
-    "reason": "Punerea în funcțiune a echipamentelor electrice folosește direct competențele de instalare, punere în funcțiune și instalații electrice, la nivel entry/mid."
+    "matchPercentage": 78,
+    "reason": "Program de working student pe embedded și computer vision, nivel perfect și competențe direct aplicabile de sisteme embedded și microcontrolori."
   },
   {
-    "url": "https://jobs.rinf.tech/232674",
-    "title": "C/C++ Embedded Developer",
+    "url": "https://jobs.rinf.tech/240537",
+    "title": "Embedded Security Firmware Engineer",
     "company": "RINF OUTSOURCING SOLUTIONS SRL",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T11:06:34Z",
+    "date": "2026-11-17T13:26:28Z",
     "status": "tested",
+    "tags": [
+      "sisteme embedded",
+      "microcontrolori"
+    ],
+    "matchPercentage": 72,
+    "reason": "Firmware-ul embedded se bazează pe competențele de sisteme embedded și microcontrolori, deși componenta de securitate e specializată."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156518857-embedded-software-engineer-adas-functions-realization-for-driving",
+    "title": "Embedded Software Engineer – ADAS Functions Realization for Driving",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:46:31.371Z",
+    "status": "scraped",
     "tags": [
       "Sisteme embedded",
       "Microcontrolori"
     ],
-    "matchPercentage": 72,
-    "reason": "Dezvoltare embedded în C/C++ fără cerință de senior, folosește direct competența de sisteme embedded."
+    "matchPercentage": 70,
+    "reason": "Dezvoltarea de funcții embedded folosește direct competențele de sisteme embedded, fără indicii de rol senior."
   },
   {
-    "url": "https://jobs.rinf.tech/230966",
-    "title": "Embedded Software Engineer",
+    "url": "https://jobs.rinf.tech/240516",
+    "title": "Embedded Software Developer for Cryptography Testing",
     "company": "RINF OUTSOURCING SOLUTIONS SRL",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T10:30:51Z",
+    "date": "2026-11-17T13:26:28Z",
     "status": "tested",
     "tags": [
-      "Sisteme embedded",
-      "Microcontrolori"
+      "sisteme embedded",
+      "microcontrolori"
     ],
-    "matchPercentage": 72,
-    "reason": "Inginer software embedded fără restricție de nivel, competență directă în sisteme și microcontrolori."
+    "matchPercentage": 68,
+    "reason": "Dezvoltarea de software embedded pentru teste criptografice folosește competențele embedded, dar sfera criptografiei e doar parțial relevantă."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3343191",
-    "title": "INGINER ELECTROTEHNIST",
-    "company": "GERVIS SA",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160562749-working-student-laboratory-support-electronics-testing",
+    "title": "Working Student Laboratory Support (Electronics Testing)",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "SCHEIA",
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:46:31.371Z",
+    "status": "scraped",
+    "tags": [
+      "Electronică",
+      "Testare"
+    ],
+    "matchPercentage": 68,
+    "reason": "Activitățile de analiză, testare și depanare a componentelor electronice valorifică parțial competențele de electronică și testare."
+  },
+  {
+    "url": "https://8ore.ro/locuri-de-munca/tehnician-programare-cad-cam-cnc-belciugatele",
+    "title": "TEHNICIAN PROGRAMARE (CAD/CAM/CNC) - Belciugatele",
+    "company": "RECRUITMENT MARATHON S.R.L.",
+    "location": [
+      "Belciugatele",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:32:36Z",
+    "status": "tested",
+    "tags": [
+      "CAD/CAM",
+      "Desen tehnic"
+    ],
+    "matchPercentage": 65,
+    "reason": "Programarea CAD/CAM și interpretarea desenelor tehnice folosesc direct competențele mele, deși domeniul este fabricarea de matrițe industriale."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3145297",
+    "title": "MONTATOR-REGLOR, DEPANATOR APARATE ELECTRONICE, TELECOMUNICATII, RADIO",
+    "company": "VANDEWIELE ROMÂNIA S.R.L.",
+    "location": [
+      "GHIRODA",
       "Romania"
     ],
     "salary": null,
     "date": "2026-11-16T13:11:14Z",
+    "status": "verified",
+    "tags": [
+      "Circuite electronice",
+      "Mentenanță"
+    ],
+    "matchPercentage": 62,
+    "reason": "Depanarea și reglarea aparatelor electronice folosesc direct competențe de circuite și service, cu sub 3 ani experiență."
+  },
+  {
+    "url": "https://8ore.ro/locuri-de-munca/programator-cad-cam",
+    "title": "Programator CAD/CAM",
+    "company": "DYNAMIC DESIGN EUROPE RO S.R.L.",
+    "location": [
+      "Belciugatele",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T08:26:38Z",
     "status": "tested",
     "tags": [
-      "instalații electrice",
-      "proiectare"
+      "CAD/CAM"
     ],
-    "matchPercentage": 70,
-    "reason": "Inginer electrotehnist cu proiectare și documentație tehnică, sub 3 ani experiență, domeniu electric parțial relevant."
+    "matchPercentage": 60,
+    "reason": "Titlul de programator CAD/CAM corespunde competenței de proiectare asistată, dar domeniul industrial nu este medical."
+  },
+  {
+    "url": "https://multijobs.ro/job/asam-angajeaza-inginer-proiectant-solidworks/3731",
+    "title": "ASAM angajeaza inginer proiectant Solidworks",
+    "company": "ASAM SA",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:49:35Z",
+    "status": "tested",
+    "tags": [
+      "CAD/CAM"
+    ],
+    "matchPercentage": 60,
+    "reason": "Proiectarea în SolidWorks folosește competența CAD, însă domeniul companiei nu este cel medical."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272218/Hipo-Job-Finder/Tehnician-analiza-calitatii-(4-schimburi---Electronica)-F/M---Marquardt",
@@ -104,42 +263,43 @@
       "Testare",
       "Fiabilitate"
     ],
-    "matchPercentage": 65,
-    "reason": "Analiză de calitate în electronică, nivel 1-5 ani, cu sarcini de testare și fiabilitate."
+    "matchPercentage": 60,
+    "reason": "Analiza calității în electronica folosește competențe de testare și fiabilitate, iar nivelul este acceptabil."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149617139",
-    "title": "Working Student - Digitalization Team",
-    "company": "DEN BOSCH GROUP SRL",
+    "url": "https://oferimdemunca.ro/job/tehnician-reparatii-aparate-electronice-buftea-urgent/",
+    "title": "Tehnician reparatii aparate electronice - Buftea",
+    "company": "SMART OUTSOURCING SERVICES S.R.L.",
     "location": [
-      "Blaj",
+      "București",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T11:04:00Z",
+    "date": "2026-11-17T13:34:29Z",
     "status": "tested",
     "tags": [
-      "procesare date",
-      "statistică"
+      "Circuite electronice",
+      "Mentenanță"
     ],
-    "matchPercentage": 65,
-    "reason": "Working student pe validare de structuri de date și analiză SQL pentru rapoarte, domeniu parțial legat de procesarea datelor."
+    "matchPercentage": 60,
+    "reason": "Reparația și întreținerea aparatelor electronice folosesc competențe de circuite și service, cu acceptarea candidaților fără experiență."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156518857",
-    "title": "Embedded Software Engineer – ADAS Functions Realization for Driving",
-    "company": "DEN BOSCH GROUP SRL",
+    "url": "https://oferimdemunca.ro/job/angajam-tehnician-refurbish-electronice-reparatii-si-intretinere/",
+    "title": "Tehnician Refurbish Electronice",
+    "company": "SMART OUTSOURCING SERVICES S.R.L.",
     "location": [
-      "Cluj-Napoca",
+      "Buftea",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T09:35:09Z",
+    "date": "2026-11-17T09:35:58Z",
     "status": "tested",
     "tags": [
-      "Sisteme embedded"
+      "Mentenanță",
+      "Circuite electronice"
     ],
-    "matchPercentage": 62,
-    "reason": "Dezvoltare embedded de funcții ADAS, domeniu automotive doar parțial înrudit, dar cu competență embedded aplicată direct."
+    "matchPercentage": 60,
+    "reason": "Refurbish-ul și repararea echipamentelor electronice folosesc competențe de mentenanță și circuite."
   }
 ]
