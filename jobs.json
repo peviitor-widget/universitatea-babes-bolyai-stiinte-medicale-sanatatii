@@ -18,75 +18,74 @@
     "reason": "Rol tehnic pentru aparatură medicală stomatologică, relevant pentru instalare, service și mentenanță de echipamente medicale."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539-working-student-embedded-adas-software",
-    "title": "Working Student Embedded ADAS Software",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160562749-working-student-laboratory-support-electronics-testing",
+    "title": "Working Student Laboratory Support (Electronics Testing)",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-19T15:32:08.047Z",
+    "status": "scraped",
+    "tags": [
+      "Electronică",
+      "Testare"
+    ],
+    "matchPercentage": 78,
+    "reason": "Analizele electronice, diagnosticarea și analiza defectelor folosesc direct circuitele electronice și testarea/fiabilitatea, la nivel de student."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=1258",
+    "title": "Inginer proiectare si dezvoltare scule si dispozitive",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:39:07Z",
+    "status": "tested",
+    "tags": [
+      "CAD",
+      "Desen tehnic"
+    ],
+    "matchPercentage": 66,
+    "reason": "Proiectarea sculelor și dispozitivelor folosește direct CAD-ul și desenul tehnic, iar nivelul de inginer nu impune senioriat."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030-working-student-deep-learning-data-science",
+    "title": "Working student Deep Learning &amp; Data Science",
     "company": "ROBERT BOSCH SRL",
     "location": [
       "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-18T15:26:57.440Z",
+    "date": "2026-11-19T15:32:08.047Z",
     "status": "scraped",
     "tags": [
-      "sisteme embedded",
-      "procesare semnale"
+      "Python",
+      "Procesare semnale"
     ],
-    "matchPercentage": 78,
-    "reason": "Poziție de working student în embedded software și computer vision, nivel potrivit și competențe tehnice direct utilizate."
+    "matchPercentage": 65,
+    "reason": "Antrenarea rețelelor neuronale pentru viziune și semnale radar/lidar folosește modelarea în Python și procesarea de semnale, la nivel de student."
   },
   {
-    "url": "https://8ore.ro/locuri-de-munca/tehnician-programare-cad-cam-cnc-belciugatele",
-    "title": "TEHNICIAN PROGRAMARE (CAD/CAM/CNC) - Belciugatele",
-    "company": "RECRUITMENT MARATHON S.R.L.",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3343191",
+    "title": "INGINER ELECTROTEHNIST",
+    "company": "GERVIS SA",
     "location": [
-      "Belciugatele",
+      "SCHEIA",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T13:32:36Z",
+    "date": "2026-11-16T13:11:14Z",
     "status": "tested",
     "tags": [
-      "CAD/CAM",
-      "Desen tehnic"
+      "instalații electrice",
+      "documentare tehnică"
     ],
-    "matchPercentage": 68,
-    "reason": "Tehnician junior care optimizează modele CAD și programe CAM/CNC și interpretează desene tehnice, competențe directe de proiectare."
-  },
-  {
-    "url": "https://multijobs.ro/job/asam-angajeaza-inginer-proiectant-solidworks/3731",
-    "title": "ASAM angajeaza inginer proiectant Solidworks",
-    "company": "ASAM SA",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:49:35Z",
-    "status": "tested",
-    "tags": [
-      "CAD/CAM",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 62,
-    "reason": "Inginer proiectant SolidWorks, utilizare directă a competenței de proiectare CAD și fără indicii de nivel senior."
-  },
-  {
-    "url": "https://8ore.ro/locuri-de-munca/programator-cad-cam",
-    "title": "Programator CAD/CAM",
-    "company": "DYNAMIC DESIGN EUROPE RO S.R.L.",
-    "location": [
-      "Belciugatele",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T08:26:38Z",
-    "status": "tested",
-    "tags": [
-      "CAD/CAM",
-      "Proiectare CAD"
-    ],
-    "matchPercentage": 60,
-    "reason": "Programator CAD/CAM cu sarcini de proiectare asistată de calculator, competență directă de proiectare."
+    "matchPercentage": 65,
+    "reason": "Proiectare electrotehnică și documentație cu sub 3 ani experiență, domeniu parțial înrudit cu ingineria medicală."
   }
 ]
