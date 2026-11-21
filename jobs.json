@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3366286",
+    "title": "TEHNICIAN ELECTRONICA",
+    "company": "DIGITAL BIT SRL",
+    "location": [
+      "BUCURESTI SECTORUL 2",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "tested",
+    "tags": [
+      "circuite electronice",
+      "automatizare"
+    ],
+    "matchPercentage": 88,
+    "reason": "Diagnosticarea microcircuitelor și plăcilor de bază, citirea schemelor și uzul aparatelor de măsură folosesc direct competențele de circuite electronice și automatizare, fără experiență cerută."
+  },
+  {
     "url": "https://multijobs.ro/job/specialist-tehnic-aparatura-medicala-stomatologie/2363",
     "title": "Specialist Tehnic aparatura medicala stomatologie",
     "company": "HALMADENT SRL",
@@ -12,63 +30,136 @@
     "status": "tested",
     "tags": [
       "Service echipamente",
-      "Instrumentație medicală"
+      "Aparatură medicală"
     ],
-    "matchPercentage": 85,
-    "reason": "Rol tehnic pentru aparatură medicală stomatologică, relevant pentru instalare, service și mentenanță de echipamente medicale."
+    "matchPercentage": 82,
+    "reason": "Rol tehnic pentru aparatură medicală stomatologică, potrivit pentru service, instalare și întreținere echipamente medicale."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160562749-working-student-laboratory-support-electronics-testing",
-    "title": "Working Student Laboratory Support (Electronics Testing)",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-19T15:32:08.047Z",
-    "status": "scraped",
-    "tags": [
-      "Electronică",
-      "Testare"
-    ],
-    "matchPercentage": 78,
-    "reason": "Analizele electronice, diagnosticarea și analiza defectelor folosesc direct circuitele electronice și testarea/fiabilitatea, la nivel de student."
-  },
-  {
-    "url": "https://www.teamland.ro/apply.php?id=1258",
-    "title": "Inginer proiectare si dezvoltare scule si dispozitive",
-    "company": "TEAMLAND SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:39:07Z",
-    "status": "tested",
-    "tags": [
-      "CAD",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 66,
-    "reason": "Proiectarea sculelor și dispozitivelor folosește direct CAD-ul și desenul tehnic, iar nivelul de inginer nu impune senioriat."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030-working-student-deep-learning-data-science",
-    "title": "Working student Deep Learning &amp; Data Science",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539-working-student-embedded-adas-software",
+    "title": "Working Student Embedded ADAS Software",
     "company": "ROBERT BOSCH SRL",
     "location": [
       "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-19T15:32:08.047Z",
+    "date": "2026-11-20T15:11:43.889Z",
     "status": "scraped",
     "tags": [
-      "Python",
-      "Procesare semnale"
+      "sisteme embedded",
+      "procesare semnale"
+    ],
+    "matchPercentage": 75,
+    "reason": "Poziție de student cu sarcini de dezvoltare embedded și computer vision, nivel potrivit, deși aplicarea este automotive, nu medicală."
+  },
+  {
+    "url": "https://apply.workable.com/j/93AABAA821",
+    "title": "Embedded C Software Engineer | Aviation",
+    "company": "GARMIN CLUJ SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-20T14:36:27.040Z",
+    "status": "scraped",
+    "tags": [
+      "Embedded",
+      "Microcontrolori"
+    ],
+    "matchPercentage": 70,
+    "reason": "Dezvoltarea embedded C folosește direct competența de sisteme embedded, dar industria aviatică nu este medicală."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/schaeffler/18651/embedded-software-eng",
+    "title": "Embedded Software Eng.",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T14:40:24Z",
+    "status": "tested",
+    "tags": [
+      "Embedded",
+      "Microcontrolori"
+    ],
+    "matchPercentage": 70,
+    "reason": "Dezvoltarea software-ului embedded folosește direct competența de sisteme embedded și microcontrolori, într-un domeniu non-medical."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271597/SCHAEFFLER/Embedded-Software-Eng.",
+    "title": "Embedded Software Eng.",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:35:41Z",
+    "status": "tested",
+    "tags": [
+      "Embedded",
+      "Microcontrolori"
+    ],
+    "matchPercentage": 70,
+    "reason": "Dezvoltarea software-ului embedded folosește direct competența de sisteme embedded și microcontrolori, într-un domeniu al mobilității non-medical."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272218/Hipo-Job-Finder/Tehnician-analiza-calitatii-(4-schimburi---Electronica)-F/M---Marquardt",
+    "title": "Tehnician analiza calitatii (4 schimburi - Electronica) F/M - Marquardt",
+    "company": "HIPO COMPANY GRUP SRL",
+    "location": [
+      "Sibiu",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:16:28Z",
+    "status": "tested",
+    "tags": [
+      "testare",
+      "circuite electronice"
     ],
     "matchPercentage": 65,
-    "reason": "Antrenarea rețelelor neuronale pentru viziune și semnale radar/lidar folosește modelarea în Python și procesarea de semnale, la nivel de student."
+    "reason": "Analiza calității în electronică la nivel de început folosește competențe de testare și cunoașterea circuitelor, deși nu este specific medical."
+  },
+  {
+    "url": "https://jobs.rinf.tech/240537",
+    "title": "Embedded Security Firmware Engineer",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:26:28Z",
+    "status": "tested",
+    "tags": [
+      "Embedded",
+      "Microcontrolori"
+    ],
+    "matchPercentage": 65,
+    "reason": "Firmware-ul embedded folosește competența de sisteme embedded, dar specializarea în securitate și criptografie este externă profilului medical."
+  },
+  {
+    "url": "https://jobs.rinf.tech/240516",
+    "title": "Embedded Software Developer for Cryptography Testing",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:26:28Z",
+    "status": "tested",
+    "tags": [
+      "Embedded",
+      "Microcontrolori"
+    ],
+    "matchPercentage": 65,
+    "reason": "Dezvoltarea embedded folosește competența de microcontrolori, dar testarea criptografică este în afara competențelor de inginerie medicală."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3343191",
@@ -82,10 +173,100 @@
     "date": "2026-11-16T13:11:14Z",
     "status": "tested",
     "tags": [
-      "instalații electrice",
-      "documentare tehnică"
+      "Proiectare",
+      "Documentare"
     ],
     "matchPercentage": 65,
-    "reason": "Proiectare electrotehnică și documentație cu sub 3 ani experiență, domeniu parțial înrudit cu ingineria medicală."
+    "reason": "Proiectarea și întocmirea documentației electrice folosesc direct competențele de proiectare și documentare, iar cerința de sub 3 ani se potrivește."
+  },
+  {
+    "url": "https://oferimdemunca.ro/job/tehnician-reparatii-aparate-electronice-buftea-urgent/",
+    "title": "Tehnician reparatii aparate electronice - Buftea",
+    "company": "SMART OUTSOURCING SERVICES S.R.L.",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:34:29Z",
+    "status": "tested",
+    "tags": [
+      "circuite electronice",
+      "service"
+    ],
+    "matchPercentage": 63,
+    "reason": "Reparația aparatelor electronice presupune diagnosticare la nivel de circuit și măsurători, competențe transferabile, deși domeniul nu este medical."
+  },
+  {
+    "url": "https://oferimdemunca.ro/job/angajam-tehnician-refurbish-electronice-reparatii-si-intretinere/",
+    "title": "Tehnician Refurbish Electronice",
+    "company": "SMART OUTSOURCING SERVICES S.R.L.",
+    "location": [
+      "Buftea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:35:58Z",
+    "status": "tested",
+    "tags": [
+      "circuite electronice",
+      "service"
+    ],
+    "matchPercentage": 63,
+    "reason": "Reparația și/refurbish-ul aparatelor electronice folosesc competențe de diagnosticare și măsurare, într-un domeniu doar parțial înrudit."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3395745",
+    "title": "TEHNICIAN ELECTRONICA",
+    "company": "VIDEOLED SMART SECURITY SRL",
+    "location": [
+      "MUNICIPIUL BOTOSANI",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:05:46Z",
+    "status": "verified",
+    "tags": [
+      "instalatii electrice",
+      "service"
+    ],
+    "matchPercentage": 62,
+    "reason": "Instalarea sistemelor de supraveghere, alarmă și control acces folosește parțial competențe de instalații electrice și service, la nivel acceptat."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3145297",
+    "title": "MONTATOR-REGLOR, DEPANATOR APARATE ELECTRONICE, TELECOMUNICATII, RADIO",
+    "company": "VANDEWIELE ROMÂNIA S.R.L.",
+    "location": [
+      "GHIRODA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "verified",
+    "tags": [
+      "circuite electronice",
+      "service"
+    ],
+    "matchPercentage": 60,
+    "reason": "Depanarea aparatelor electronice și a echipamentelor de telecomunicații folosește parțial competențe de circuite și service, la nivel acceptat."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3448731",
+    "title": "ELECTRICIAN MONTARE SI REPARATII APARATAJ ELECTRIC DE PROTECTIE, RELEE, AUTOMATIZARE",
+    "company": "S.S.H. HIDROSERV S.A.",
+    "location": [
+      "Gogosu",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:37:13Z",
+    "status": "tested",
+    "tags": [
+      "Instalații electrice",
+      "Automatizare"
+    ],
+    "matchPercentage": 60,
+    "reason": "Montarea și repararea echipamentelor electrice, releelor și automatizărilor folosesc competențele de instalații electrice și automatizare, într-un context non-medical."
   }
 ]
