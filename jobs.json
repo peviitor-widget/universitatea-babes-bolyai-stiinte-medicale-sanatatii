@@ -1,76 +1,5 @@
 [
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539-working-student-embedded-adas-software",
-    "title": "Working Student Embedded ADAS Software",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-21T14:28:00.355Z",
-    "status": "scraped",
-    "tags": [
-      "Sisteme embedded",
-      "Procesare semnale"
-    ],
-    "matchPercentage": 90,
-    "reason": "Poziție de working student cu dezvoltare de componente AI și viziune pe hardware embedded, potrivită nivelului și competențelor."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156518857-embedded-software-engineer-adas-functions-realization-for-driving",
-    "title": "Embedded Software Engineer – ADAS Functions Realization for Driving",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-21T14:28:00.356Z",
-    "status": "scraped",
-    "tags": [
-      "Sisteme embedded",
-      "Microcontrolori"
-    ],
-    "matchPercentage": 85,
-    "reason": "Dezvoltarea funcțiilor embedded folosește direct competențele de sisteme embedded și microcontrolori, fără cerință de nivel senior."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3366286",
-    "title": "TEHNICIAN ELECTRONICA",
-    "company": "DIGITAL BIT SRL",
-    "location": [
-      "BUCURESTI SECTORUL 2",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "tested",
-    "tags": [
-      "Circuite electronice",
-      "Automatizare"
-    ],
-    "matchPercentage": 82,
-    "reason": "Lucrul cu microcircuite, scheme electronice, aparate de măsură și automatizări folosește direct competențele de electronică, fără experiență anterioară."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160562749-working-student-laboratory-support-electronics-testing",
-    "title": "Working Student Laboratory Support (Electronics Testing)",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-21T14:28:00.356Z",
-    "status": "scraped",
-    "tags": [
-      "circuite electronice",
-      "testare"
-    ],
-    "matchPercentage": 82,
-    "reason": "Analize și diagnostice electronice de laborator, cu failure analysis și testare a componentelor și ansamblurilor, la nivel de student."
-  },
-  {
     "url": "https://www.teamland.ro/apply.php?id=1258",
     "title": "Inginer proiectare si dezvoltare scule si dispozitive",
     "company": "TEAMLAND SRL",
@@ -82,11 +11,29 @@
     "date": "2026-11-17T09:39:07Z",
     "status": "tested",
     "tags": [
-      "CAD",
+      "Proiectare CAD",
       "Desen tehnic"
     ],
     "matchPercentage": 70,
-    "reason": "Proiectarea sculelor și întocmirea desenelor de execuție folosesc direct CAD-ul și desenul tehnic, deși industria este cea a prelucrării metalelor."
+    "reason": "Proiectarea dispozitivelor în CAD cu desene de execuție folosește direct competențe de proiectare CAD și desen tehnic, aplicat în industria metalurgică, nu în cea medicală."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/oguBZks74u",
+    "title": "Inginer Calitate Electrice",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-22T14:17:28Z",
+    "status": "scraped",
+    "tags": [
+      "Instalații electrice",
+      "Testare"
+    ],
+    "matchPercentage": 65,
+    "reason": "Verificarea calității lucrărilor de instalații electrice folosește competențe de instalații electrice și testare, dar în infrastructură energetică, nu în echipamente medicale."
   },
   {
     "url": "https://fjobs.ro/job/operator-aparatura-tehnica-dentara/",
@@ -101,117 +48,27 @@
     "status": "tested",
     "tags": [
       "echipamente medicale",
-      "instrumentație virtuală"
+      "instrumentație"
     ],
-    "matchPercentage": 70,
-    "reason": "Operator de aparatură tehnică dentară, domeniu medical și nivel fără experiență obligatorie, dar rol de operare nu de proiectare."
+    "matchPercentage": 62,
+    "reason": "Operator aparatură tehnică dentară, nivel entry-level în domeniul medical, dar cu sarcini de operare, nu de proiectare."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3441121",
-    "title": "TEHNICIAN ELECTRONICA",
-    "company": "ELMET INTERNATIONAL SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3343191",
+    "title": "INGINER ELECTROTEHNIST",
+    "company": "GERVIS SA",
     "location": [
-      "BRASOV",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "Circuite electronice",
-      "Testare"
-    ],
-    "matchPercentage": 65,
-    "reason": "Poziție de tehnician electronica la un producător de echipamente electronice, cu sub 3 ani experiență, dar fără detalii despre sarcini."
-  },
-  {
-    "url": "https://apply.workable.com/j/93AABAA821",
-    "title": "Embedded C Software Engineer | Aviation",
-    "company": "GARMIN CLUJ SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-21T13:52:05.247Z",
-    "status": "scraped",
-    "tags": [
-      "embedded",
-      "microcontrolori"
-    ],
-    "matchPercentage": 65,
-    "reason": "Dezvoltarea software-ului embedded folosește direct competențele de sisteme embedded, dar industria aviației nu este una medicală."
-  },
-  {
-    "url": "https://www.targuldecariere.ro/companii/schaeffler/18651/embedded-software-eng",
-    "title": "Embedded Software Eng.",
-    "company": "SCHAEFFLER ROMANIA SRL",
-    "location": [
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T14:40:24Z",
-    "status": "tested",
-    "tags": [
-      "embedded",
-      "microcontrolori"
-    ],
-    "matchPercentage": 64,
-    "reason": "Rolul de inginer software embedded folosește competențele de firmware, însă domeniul mobilității auto este doar parțial relevant."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271597/SCHAEFFLER/Embedded-Software-Eng.",
-    "title": "Embedded Software Eng.",
-    "company": "SCHAEFFLER ROMANIA SRL",
-    "location": [
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T13:35:41Z",
-    "status": "tested",
-    "tags": [
-      "embedded",
-      "microcontrolori"
-    ],
-    "matchPercentage": 64,
-    "reason": "Poziția de embedded software engineer implică programare de microcontrolori, iar nivelul pare entry/mid, dar domeniul este automotive."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272218/Hipo-Job-Finder/Tehnician-analiza-calitatii-(4-schimburi---Electronica)-F/M---Marquardt",
-    "title": "Tehnician analiza calitatii (4 schimburi - Electronica) F/M - Marquardt",
-    "company": "HIPO COMPANY GRUP SRL",
-    "location": [
-      "Sibiu",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:16:28Z",
-    "status": "tested",
-    "tags": [
-      "Testare",
-      "Măsurare"
-    ],
-    "matchPercentage": 60,
-    "reason": "Tehnician în analiza calității electronicii, cu sarcini de testare și măsurare, la nivel de început de carieră."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3145297",
-    "title": "MONTATOR-REGLOR, DEPANATOR APARATE ELECTRONICE, TELECOMUNICATII, RADIO",
-    "company": "VANDEWIELE ROMÂNIA S.R.L.",
-    "location": [
-      "GHIRODA",
+      "SCHEIA",
       "Romania"
     ],
     "salary": null,
     "date": "2026-11-16T13:11:14Z",
-    "status": "verified",
+    "status": "tested",
     "tags": [
-      "Circuite electronice",
-      "Service echipamente"
+      "Instalații electrice",
+      "Documentare tehnică"
     ],
-    "matchPercentage": 60,
-    "reason": "Montarea, reglarea și depanarea aparatelor electronice folosesc competențe de electronică și service, la sub 3 ani experiență."
+    "matchPercentage": 62,
+    "reason": "Proiectarea și documentația în electrotehnică folosesc competențe de instalații electrice, iar experiența sub 3 ani se potrivește."
   }
 ]
