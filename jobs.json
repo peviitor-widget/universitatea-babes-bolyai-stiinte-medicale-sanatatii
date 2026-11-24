@@ -1,5 +1,58 @@
 [
   {
+    "url": "https://multijobs.ro/job/specialist-tehnic-aparatura-medicala-stomatologie/2363",
+    "title": "Specialist Tehnic aparatura medicala stomatologie",
+    "company": "HALMADENT SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T14:28:54Z",
+    "status": "tested",
+    "tags": [
+      "Mentenanță aparatură",
+      "Service echipamente"
+    ],
+    "matchPercentage": 85,
+    "reason": "Poziția de specialist tehnic pentru aparatură medicală stomatologică folosește direct mentenanța și service-ul echipamentelor medicale, la un nivel potrivit pentru un absolvent."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162476972-working-student-production-maintenance",
+    "title": "Working Student - Production Maintenance",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-23T17:47:51.138Z",
+    "status": "scraped",
+    "tags": [
+      "Mentenanță",
+      "Instalații electrice"
+    ],
+    "matchPercentage": 72,
+    "reason": "Mentenanța echipamentelor, inspecțiile tehnice și securitatea electrică folosesc direct competențe de mentenanță și instalații electrice, la nivel de working student."
+  },
+  {
+    "url": "https://apply.workable.com/j/93AABAA821",
+    "title": "Embedded C Software Engineer | Aviation",
+    "company": "GARMIN CLUJ SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-23T16:47:22.333Z",
+    "status": "scraped",
+    "tags": [
+      "embedded",
+      "microcontrolori"
+    ],
+    "matchPercentage": 70,
+    "reason": "Dezvoltarea embedded C folosește direct competența de sisteme embedded, dar domeniul este aviatic, nu medical."
+  },
+  {
     "url": "https://www.teamland.ro/apply.php?id=1258",
     "title": "Inginer proiectare si dezvoltare scule si dispozitive",
     "company": "TEAMLAND SRL",
@@ -11,47 +64,100 @@
     "date": "2026-11-17T09:39:07Z",
     "status": "tested",
     "tags": [
-      "Proiectare CAD",
+      "CAD",
       "Desen tehnic"
     ],
-    "matchPercentage": 70,
-    "reason": "Proiectarea dispozitivelor în CAD cu desene de execuție folosește direct competențe de proiectare CAD și desen tehnic, aplicat în industria metalurgică, nu în cea medicală."
+    "matchPercentage": 65,
+    "reason": "Proiectare mecanică și desen tehnic cu CAD în industria prelucrării metalelor, domeniu parțial similar, nivel de inginer acceptabil."
   },
   {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/oguBZks74u",
-    "title": "Inginer Calitate Electrice",
-    "company": "ELECTROGRUP SA",
+    "url": "https://www.targuldecariere.ro/companii/schaeffler/18651/embedded-software-eng",
+    "title": "Embedded Software Eng.",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T14:40:24Z",
+    "status": "tested",
+    "tags": [
+      "embedded",
+      "microcontrolori"
+    ],
+    "matchPercentage": 65,
+    "reason": "Rol de embedded software care utilizează competențele de sisteme embedded, însă în industria mobilității auto, nu în cea medicală."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271597/SCHAEFFLER/Embedded-Software-Eng.",
+    "title": "Embedded Software Eng.",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:35:41Z",
+    "status": "tested",
+    "tags": [
+      "embedded",
+      "microcontrolori"
+    ],
+    "matchPercentage": 65,
+    "reason": "Poziție de embedded software în domeniul auto, cu competențe embedded parțial relevante, fără specific medical."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162663639-working-student-claims-management",
+    "title": "Working Student Claims Management",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-23T17:47:51.138Z",
+    "status": "scraped",
+    "tags": [
+      "Testare",
+      "Materiale"
+    ],
+    "matchPercentage": 65,
+    "reason": "Selectarea metodelor de testare, a materialelor și a dispozitivelor de măsurare folosește direct competențe de testare și analiză de materiale, la nivel de student."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030-working-student-deep-learning-data-science",
+    "title": "Working student Deep Learning &amp; Data Science",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-23T17:47:51.138Z",
+    "status": "scraped",
+    "tags": [
+      "Modelare Python",
+      "Procesare date"
+    ],
+    "matchPercentage": 65,
+    "reason": "Domeniul auto ADAS nu este medical, dar antrenarea rețelelor neuronale și analiza datelor folosesc direct competențele de modelare Python și procesare de date, iar nivelul de student este potrivit."
+  },
+  {
+    "url": "https://jobs.rinf.tech/240537",
+    "title": "Embedded Security Firmware Engineer",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-22T14:17:28Z",
-    "status": "scraped",
-    "tags": [
-      "Instalații electrice",
-      "Testare"
-    ],
-    "matchPercentage": 65,
-    "reason": "Verificarea calității lucrărilor de instalații electrice folosește competențe de instalații electrice și testare, dar în infrastructură energetică, nu în echipamente medicale."
-  },
-  {
-    "url": "https://fjobs.ro/job/operator-aparatura-tehnica-dentara/",
-    "title": "Operator aparatura tehnica…",
-    "company": "PROFESIONAL LEASING S.R.L.",
-    "location": [
-      "Bacau",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:46:20Z",
+    "date": "2026-11-17T13:26:28Z",
     "status": "tested",
     "tags": [
-      "echipamente medicale",
-      "instrumentație"
+      "embedded",
+      "microcontrolori"
     ],
     "matchPercentage": 62,
-    "reason": "Operator aparatură tehnică dentară, nivel entry-level în domeniul medical, dar cu sarcini de operare, nu de proiectare."
+    "reason": "Firmware embedded cu accent pe securitate și criptografie, competența embedded fiind parțial relevantă, iar nivelul nu e senior."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3343191",
@@ -69,6 +175,24 @@
       "Documentare tehnică"
     ],
     "matchPercentage": 62,
-    "reason": "Proiectarea și documentația în electrotehnică folosesc competențe de instalații electrice, iar experiența sub 3 ani se potrivește."
+    "reason": "Proiectarea și documentația de instalații electrice folosesc parțial competențele de instalații electrice și documentare tehnică, iar experiența sub 3 ani este acceptabilă, deși postul nu este în domeniul medical."
+  },
+  {
+    "url": "https://jobs.rinf.tech/240516",
+    "title": "Embedded Software Developer for Cryptography Testing",
+    "company": "RINF OUTSOURCING SOLUTIONS SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:26:28Z",
+    "status": "tested",
+    "tags": [
+      "embedded",
+      "testare"
+    ],
+    "matchPercentage": 60,
+    "reason": "Dezvoltare embedded și testare, dar orientată spre criptografie, nu spre echipamente medicale."
   }
 ]
