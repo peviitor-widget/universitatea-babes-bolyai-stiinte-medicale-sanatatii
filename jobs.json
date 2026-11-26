@@ -1,75 +1,21 @@
 [
   {
-    "url": "https://www.teamland.ro/apply.php?id=1258",
-    "title": "Inginer proiectare si dezvoltare scule si dispozitive",
-    "company": "TEAMLAND SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:39:07Z",
-    "status": "tested",
-    "tags": [
-      "Proiectare CAD",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 65,
-    "reason": "Rol de inginer proiectare care folosește direct CAD, desenul tehnic și analiza mecanică, deși aplicarea este în industria metalurgică, nu în dispozitive medicale."
-  },
-  {
-    "url": "https://apply.workable.com/j/93AABAA821",
-    "title": "Embedded C Software Engineer | Aviation",
-    "company": "GARMIN CLUJ SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T16:41:26.090Z",
-    "status": "scraped",
-    "tags": [
-      "sisteme embedded",
-      "microcontrolori"
-    ],
-    "matchPercentage": 65,
-    "reason": "Dezvoltarea embedded C folosește direct competența de sisteme embedded, dar domeniul aviației nu este cel medical."
-  },
-  {
-    "url": "https://www.targuldecariere.ro/companii/schaeffler/18651/embedded-software-eng",
-    "title": "Embedded Software Eng.",
-    "company": "SCHAEFFLER ROMANIA SRL",
+    "url": "https://multijobs.ro/job/specialist-tehnic-aparatura-medicala-stomatologie/2363",
+    "title": "Specialist Tehnic aparatura medicala stomatologie",
+    "company": "HALMADENT SRL",
     "location": [
       "Brașov",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T14:40:24Z",
+    "date": "2026-11-17T14:28:54Z",
     "status": "tested",
     "tags": [
-      "sisteme embedded",
-      "circuite electronice"
+      "mentenanță",
+      "service"
     ],
-    "matchPercentage": 65,
-    "reason": "Jobul de embedded software folosește competențele de sisteme embedded și circuite electronice, însă domeniul este mobilitatea auto, nu cel medical."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271597/SCHAEFFLER/Embedded-Software-Eng.",
-    "title": "Embedded Software Eng.",
-    "company": "SCHAEFFLER ROMANIA SRL",
-    "location": [
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T13:35:41Z",
-    "status": "tested",
-    "tags": [
-      "sisteme embedded",
-      "microcontrolori"
-    ],
-    "matchPercentage": 65,
-    "reason": "Poziția presupune dezvoltare embedded care valorifică competențele de microcontrolori, dar într-un domeniu automotive, nu medical."
+    "matchPercentage": 85,
+    "reason": "Mentenanța aparaturii medicale stomatologice corespunde direct competențelor de service și echipamente medicale."
   },
   {
     "url": "https://fjobs.ro/job/operator-aparatura-tehnica-dentara/",
@@ -83,10 +29,189 @@
     "date": "2026-11-17T09:46:20Z",
     "status": "tested",
     "tags": [
-      "Aparatură medicală"
+      "echipamente medicale",
+      "instrumentație medicală"
+    ],
+    "matchPercentage": 82,
+    "reason": "Operator pe aparatură tehnică dentară, cu studii tehnice sau medicale și experiență opțională, potrivit ca domeniu și nivel."
+  },
+  {
+    "url": "https://8ore.ro/locuri-de-munca/tehnician-programare-cad-cam-cnc-belciugatele",
+    "title": "TEHNICIAN PROGRAMARE (CAD/CAM/CNC) - Belciugatele",
+    "company": "RECRUITMENT MARATHON S.R.L.",
+    "location": [
+      "Belciugatele",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:32:36Z",
+    "status": "tested",
+    "tags": [
+      "CAD/CAM",
+      "Desen tehnic"
+    ],
+    "matchPercentage": 70,
+    "reason": "Poziție junior de programare CAD/CAM/CNC care folosește direct modelarea CAD și interpretarea desenelor tehnice, deși în producția de matrițe."
+  },
+  {
+    "url": "https://apply.workable.com/j/93AABAA821",
+    "title": "Embedded C Software Engineer | Aviation",
+    "company": "GARMIN CLUJ SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-25T16:24:50.581Z",
+    "status": "scraped",
+    "tags": [
+      "Sisteme embedded",
+      "Microcontrolori"
+    ],
+    "matchPercentage": 70,
+    "reason": "Dezvoltarea embedded C folosește direct competența de sisteme embedded, dar produsul este aviatic, nu medical."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539",
+    "title": "Working Student Embedded ADAS Software",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:48:04Z",
+    "status": "tested",
+    "tags": [
+      "Sisteme embedded",
+      "Procesare semnale"
+    ],
+    "matchPercentage": 70,
+    "reason": "Poziția de working student pentru software embedded ADAS implică embedded și viziune, dar e din automotive, nu din domeniul medical."
+  },
+  {
+    "url": "https://multijobs.ro/job/asistent-medical-radiologie-si-imagistica-medicala/6292",
+    "title": "Asistent medical radiologie si imagistica medicala",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Oradea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:25:19Z",
+    "status": "tested",
+    "tags": [
+      "imagistică medicală",
+      "operare imagini"
     ],
     "matchPercentage": 65,
-    "reason": "Operator aparatură tehnică dentară la început de carieră, cu studii tehnice/medicale preferate, într-un domeniu medical conex."
+    "reason": "Postul paramedical folosește parțial competențele de operare a aparaturii și interpretare a imaginilor medicale."
+  },
+  {
+    "url": "https://8ore.ro/locuri-de-munca/programator-cad-cam",
+    "title": "Programator CAD/CAM",
+    "company": "DYNAMIC DESIGN EUROPE RO S.R.L.",
+    "location": [
+      "Belciugatele",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T08:26:38Z",
+    "status": "tested",
+    "tags": [
+      "CAD/CAM",
+      "Documentare tehnica"
+    ],
+    "matchPercentage": 65,
+    "reason": "Programator CAD/CAM cu sarcini de modelare, programe CNC și documentație tehnică, la nivel entry-level în producție industrială."
+  },
+  {
+    "url": "https://multijobs.ro/job/asam-angajeaza-inginer-proiectant-solidworks/3731",
+    "title": "ASAM angajeaza inginer proiectant Solidworks",
+    "company": "ASAM SA",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:49:35Z",
+    "status": "tested",
+    "tags": [
+      "Proiectare CAD",
+      "Desen tehnic"
+    ],
+    "matchPercentage": 65,
+    "reason": "Inginer proiectant SolidWorks care aplică direct proiectarea CAD și desenul tehnic, în industria auto în loc de cea medicală."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/schaeffler/18651/embedded-software-eng",
+    "title": "Embedded Software Eng.",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T14:40:24Z",
+    "status": "tested",
+    "tags": [
+      "Sisteme embedded",
+      "Microcontrolori"
+    ],
+    "matchPercentage": 65,
+    "reason": "Software-ul embedded din automotive e înrudit prin microcontrolori, însă nu are aplicație medicală, la nivel probabil junior."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3343191",
+    "title": "INGINER ELECTROTEHNIST",
+    "company": "GERVIS SA",
+    "location": [
+      "SCHEIA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "tested",
+    "tags": [
+      "Instalații electrice",
+      "Documentare tehnică"
+    ],
+    "matchPercentage": 65,
+    "reason": "Proiectarea și documentația electrotehnică folosesc parțial competențele de instalații electrice și documentare, iar experiența sub 3 ani e acceptabilă."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3456700",
+    "title": "INGINER ELECTRICIAN",
+    "company": "VERTATEL INTERNATIONAL S.R.L.",
+    "location": [
+      "MAGURELE",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-25T16:58:12Z",
+    "status": "scraped",
+    "tags": [
+      "instalații electrice"
+    ],
+    "matchPercentage": 60,
+    "reason": "Postul cu zero experiență valorifică parțial competența de instalații electrice, deși nu vizează echipamente medicale."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3447050",
+    "title": "INGINER ELECTRICIAN",
+    "company": "VERTATEL INTERNATIONAL S.R.L.",
+    "location": [
+      "MAGURELE",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-25T16:58:12Z",
+    "status": "scraped",
+    "tags": [
+      "instalații electrice"
+    ],
+    "matchPercentage": 60,
+    "reason": "Nivelul entry-level e potrivit, iar sarcinile de electrician acoperă parțial competența de instalații electrice."
   },
   {
     "url": "https://jobs.rinf.tech/240537",
@@ -100,10 +225,11 @@
     "date": "2026-11-17T13:26:28Z",
     "status": "tested",
     "tags": [
-      "sisteme embedded"
+      "Sisteme embedded",
+      "Microcontrolori"
     ],
     "matchPercentage": 60,
-    "reason": "Firmware-ul embedded se bazează pe competența de sisteme embedded, dar specializarea în securitate nu corespunde domeniului medical."
+    "reason": "Firmware-ul embedded e parțial relevant, dar specializarea în securitate nu corespunde competențelor de inginerie medicală."
   },
   {
     "url": "https://jobs.rinf.tech/240516",
@@ -117,10 +243,10 @@
     "date": "2026-11-17T13:26:28Z",
     "status": "tested",
     "tags": [
-      "sisteme embedded",
-      "testare"
+      "Sisteme embedded",
+      "Microcontrolori"
     ],
     "matchPercentage": 60,
-    "reason": "Dezvoltarea embedded și testarea folosesc parțial competențele de sisteme embedded, însă criptografia nu are legătură cu aparatura medicală."
+    "reason": "Dezvoltarea embedded pentru teste criptografice folosește parțial competențele de microcontrolori, fără legătură cu aparatura medicală."
   }
 ]
