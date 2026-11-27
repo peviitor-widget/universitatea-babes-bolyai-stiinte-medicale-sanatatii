@@ -11,29 +11,46 @@
     "date": "2026-11-17T14:28:54Z",
     "status": "tested",
     "tags": [
-      "mentenanță",
-      "service"
+      "Mentenanță",
+      "Service"
     ],
-    "matchPercentage": 85,
-    "reason": "Mentenanța aparaturii medicale stomatologice corespunde direct competențelor de service și echipamente medicale."
+    "matchPercentage": 88,
+    "reason": "Specialist tehnic pentru aparatură medicală stomatologică folosește direct mentenanța, punerea în funcțiune și service-ul echipamentelor medicale."
   },
   {
-    "url": "https://fjobs.ro/job/operator-aparatura-tehnica-dentara/",
-    "title": "Operator aparatura tehnica…",
-    "company": "PROFESIONAL LEASING S.R.L.",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160562749-working-student-laboratory-support-electronics-testing",
+    "title": "Working Student Laboratory Support (Electronics Testing)",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "Bacau",
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-26T16:40:48.551Z",
+    "status": "scraped",
+    "tags": [
+      "testare",
+      "circuite electronice"
+    ],
+    "matchPercentage": 80,
+    "reason": "Diagnosticarea și analiza defectelor circuitelor electronice folosesc direct competențe de electronică și testare, deși pe componente auto."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539",
+    "title": "Working Student Embedded ADAS Software",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T09:46:20Z",
+    "date": "2026-11-17T12:48:04Z",
     "status": "tested",
     "tags": [
-      "echipamente medicale",
-      "instrumentație medicală"
+      "Sisteme embedded",
+      "Microcontrolori"
     ],
-    "matchPercentage": 82,
-    "reason": "Operator pe aparatură tehnică dentară, cu studii tehnice sau medicale și experiență opțională, potrivit ca domeniu și nivel."
+    "matchPercentage": 72,
+    "reason": "Poziție de working student cu sarcini embedded, nivel ideal pentru un student, dar orientată spre ADAS auto."
   },
   {
     "url": "https://8ore.ro/locuri-de-munca/tehnician-programare-cad-cam-cnc-belciugatele",
@@ -51,7 +68,7 @@
       "Desen tehnic"
     ],
     "matchPercentage": 70,
-    "reason": "Poziție junior de programare CAD/CAM/CNC care folosește direct modelarea CAD și interpretarea desenelor tehnice, deși în producția de matrițe."
+    "reason": "Post junior de programare CAD/CAM/CNC care folosește direct proiectarea CAD și interpretarea desenelor tehnice, deși e în producție de matrițe, nu medicală."
   },
   {
     "url": "https://apply.workable.com/j/93AABAA821",
@@ -62,86 +79,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-25T16:24:50.581Z",
+    "date": "2026-11-26T15:58:59.145Z",
     "status": "scraped",
     "tags": [
       "Sisteme embedded",
       "Microcontrolori"
     ],
     "matchPercentage": 70,
-    "reason": "Dezvoltarea embedded C folosește direct competența de sisteme embedded, dar produsul este aviatic, nu medical."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539",
-    "title": "Working Student Embedded ADAS Software",
-    "company": "DEN BOSCH GROUP SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T12:48:04Z",
-    "status": "tested",
-    "tags": [
-      "Sisteme embedded",
-      "Procesare semnale"
-    ],
-    "matchPercentage": 70,
-    "reason": "Poziția de working student pentru software embedded ADAS implică embedded și viziune, dar e din automotive, nu din domeniul medical."
-  },
-  {
-    "url": "https://multijobs.ro/job/asistent-medical-radiologie-si-imagistica-medicala/6292",
-    "title": "Asistent medical radiologie si imagistica medicala",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Oradea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:25:19Z",
-    "status": "tested",
-    "tags": [
-      "imagistică medicală",
-      "operare imagini"
-    ],
-    "matchPercentage": 65,
-    "reason": "Postul paramedical folosește parțial competențele de operare a aparaturii și interpretare a imaginilor medicale."
-  },
-  {
-    "url": "https://8ore.ro/locuri-de-munca/programator-cad-cam",
-    "title": "Programator CAD/CAM",
-    "company": "DYNAMIC DESIGN EUROPE RO S.R.L.",
-    "location": [
-      "Belciugatele",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T08:26:38Z",
-    "status": "tested",
-    "tags": [
-      "CAD/CAM",
-      "Documentare tehnica"
-    ],
-    "matchPercentage": 65,
-    "reason": "Programator CAD/CAM cu sarcini de modelare, programe CNC și documentație tehnică, la nivel entry-level în producție industrială."
-  },
-  {
-    "url": "https://multijobs.ro/job/asam-angajeaza-inginer-proiectant-solidworks/3731",
-    "title": "ASAM angajeaza inginer proiectant Solidworks",
-    "company": "ASAM SA",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:49:35Z",
-    "status": "tested",
-    "tags": [
-      "Proiectare CAD",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 65,
-    "reason": "Inginer proiectant SolidWorks care aplică direct proiectarea CAD și desenul tehnic, în industria auto în loc de cea medicală."
+    "reason": "Dezvoltare embedded C care folosește direct competențele de sisteme embedded și microcontrolori, dar în aviație, nu în domeniul medical; nivelul este entry/mid."
   },
   {
     "url": "https://www.targuldecariere.ro/companii/schaeffler/18651/embedded-software-eng",
@@ -158,26 +103,43 @@
       "Sisteme embedded",
       "Microcontrolori"
     ],
-    "matchPercentage": 65,
-    "reason": "Software-ul embedded din automotive e înrudit prin microcontrolori, însă nu are aplicație medicală, la nivel probabil junior."
+    "matchPercentage": 70,
+    "reason": "Rol de embedded software engineering care valorifică direct competențele de sisteme embedded, aplicat în industria auto, la nivel junior/mid."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3343191",
-    "title": "INGINER ELECTROTEHNIST",
-    "company": "GERVIS SA",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3428607",
+    "title": "OPERATOR DISPECER SISTEME DE MONITORIZARE SI APARATURA DE CONTROL",
+    "company": "A &amp; S INTERNATIONAL 2000 SRL",
     "location": [
-      "SCHEIA",
+      "BUCURESTI SECTORUL 6",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "tested",
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
     "tags": [
-      "Instalații electrice",
-      "Documentare tehnică"
+      "monitorizare",
+      "instrumentație virtuală"
     ],
-    "matchPercentage": 65,
-    "reason": "Proiectarea și documentația electrotehnică folosesc parțial competențele de instalații electrice și documentare, iar experiența sub 3 ani e acceptabilă."
+    "matchPercentage": 70,
+    "reason": "Operator dispecer pe sisteme de monitorizare și aparatură de control, cu sub 3 ani experiență, folosește direct cunoștințe de monitorizare și instrumentație."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162476972-working-student-production-maintenance",
+    "title": "Working Student - Production Maintenance",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-26T16:40:48.551Z",
+    "status": "scraped",
+    "tags": [
+      "testare",
+      "instalații electrice"
+    ],
+    "matchPercentage": 68,
+    "reason": "Inspecțiile tehnice, etanșeitatea și siguranța electrică folosesc competențe de testare, dar în mentenanță industrială auto, nu medicală."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3456700",
@@ -188,13 +150,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-25T16:58:12Z",
+    "date": "2026-11-26T16:37:54Z",
     "status": "scraped",
     "tags": [
-      "instalații electrice"
+      "Instalații electrice",
+      "Electronică"
     ],
-    "matchPercentage": 60,
-    "reason": "Postul cu zero experiență valorifică parțial competența de instalații electrice, deși nu vizează echipamente medicale."
+    "matchPercentage": 65,
+    "reason": "Poziție de inginer electrician fără experiență, domeniu electric care se suprapune parțial cu competențele de instalații electrice și electronică."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3447050",
@@ -205,13 +168,32 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-25T16:58:12Z",
+    "date": "2026-11-26T16:37:54Z",
     "status": "scraped",
     "tags": [
-      "instalații electrice"
+      "Instalații electrice",
+      "Electronică"
     ],
-    "matchPercentage": 60,
-    "reason": "Nivelul entry-level e potrivit, iar sarcinile de electrician acoperă parțial competența de instalații electrice."
+    "matchPercentage": 65,
+    "reason": "Poziție de inginer electrician fără experiență, domeniu electric care se suprapune parțial cu competențele de instalații electrice și electronică."
+  },
+  {
+    "url": "https://8ore.ro/locuri-de-munca/programator-cad-cam",
+    "title": "Programator CAD/CAM",
+    "company": "DYNAMIC DESIGN EUROPE RO S.R.L.",
+    "location": [
+      "Belciugatele",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T08:26:38Z",
+    "status": "tested",
+    "tags": [
+      "CAD/CAM",
+      "Desen tehnic"
+    ],
+    "matchPercentage": 65,
+    "reason": "Programator CAD/CAM în producție industrială, cu competențe directe de proiectare asistată, deși nu e domeniu medical."
   },
   {
     "url": "https://jobs.rinf.tech/240537",
@@ -228,8 +210,44 @@
       "Sisteme embedded",
       "Microcontrolori"
     ],
-    "matchPercentage": 60,
-    "reason": "Firmware-ul embedded e parțial relevant, dar specializarea în securitate nu corespunde competențelor de inginerie medicală."
+    "matchPercentage": 65,
+    "reason": "Firmware-ul embedded se potrivește parțial cu competențele tale, dar specializarea în securitate nu face parte din domeniul tău."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3343191",
+    "title": "INGINER ELECTROTEHNIST",
+    "company": "GERVIS SA",
+    "location": [
+      "SCHEIA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "tested",
+    "tags": [
+      "instalații electrice",
+      "documentare"
+    ],
+    "matchPercentage": 65,
+    "reason": "Proiectarea și documentarea instalațiilor electrice se suprapun parțial peste competențe, dar fără aplicare medicală."
+  },
+  {
+    "url": "https://multijobs.ro/job/asam-angajeaza-inginer-proiectant-solidworks/3731",
+    "title": "ASAM angajeaza inginer proiectant Solidworks",
+    "company": "ASAM SA",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:49:35Z",
+    "status": "tested",
+    "tags": [
+      "CAD",
+      "Desen tehnic"
+    ],
+    "matchPercentage": 62,
+    "reason": "Inginer proiectant SolidWorks folosește direct modelarea CAD și desenul tehnic, în industria auto, nu cea medicală."
   },
   {
     "url": "https://jobs.rinf.tech/240516",
@@ -246,7 +264,25 @@
       "Sisteme embedded",
       "Microcontrolori"
     ],
-    "matchPercentage": 60,
-    "reason": "Dezvoltarea embedded pentru teste criptografice folosește parțial competențele de microcontrolori, fără legătură cu aparatura medicală."
+    "matchPercentage": 62,
+    "reason": "Dezvoltarea embedded se potrivește parțial, însă testarea criptografiei nu corespunde testării aparaturii medicale."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030-working-student-deep-learning-data-science",
+    "title": "Working student Deep Learning &amp; Data Science",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-26T16:40:48.551Z",
+    "status": "scraped",
+    "tags": [
+      "Python",
+      "procesare semnale"
+    ],
+    "matchPercentage": 62,
+    "reason": "Folosește Python și procesarea semnalelor/imaginilor, dar pe date auto ADAS, nu pe aplicații medicale."
   }
 ]
