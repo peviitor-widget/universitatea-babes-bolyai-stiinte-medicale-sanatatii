@@ -1,110 +1,57 @@
 [
   {
-    "url": "https://multijobs.ro/job/specialist-tehnic-aparatura-medicala-stomatologie/2363",
-    "title": "Specialist Tehnic aparatura medicala stomatologie",
-    "company": "HALMADENT SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3456700",
+    "title": "INGINER ELECTRICIAN",
+    "company": "VERTATEL INTERNATIONAL S.R.L.",
     "location": [
-      "Brașov",
+      "MAGURELE",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T14:28:54Z",
-    "status": "tested",
-    "tags": [
-      "Mentenanță",
-      "Service"
-    ],
-    "matchPercentage": 88,
-    "reason": "Specialist tehnic pentru aparatură medicală stomatologică folosește direct mentenanța, punerea în funcțiune și service-ul echipamentelor medicale."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160562749-working-student-laboratory-support-electronics-testing",
-    "title": "Working Student Laboratory Support (Electronics Testing)",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-26T16:40:48.551Z",
+    "date": "2026-11-27T16:23:16Z",
     "status": "scraped",
     "tags": [
-      "testare",
-      "circuite electronice"
+      "Instalații electrice",
+      "Circuite electronice"
     ],
-    "matchPercentage": 80,
-    "reason": "Diagnosticarea și analiza defectelor circuitelor electronice folosesc direct competențe de electronică și testare, deși pe componente auto."
+    "matchPercentage": 65,
+    "reason": "Poziție entry-level de inginer electrician care valorifică parțial competențele de instalații electrice, deși nu vizează echipamente medicale."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161438539",
-    "title": "Working Student Embedded ADAS Software",
-    "company": "DEN BOSCH GROUP SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3447050",
+    "title": "INGINER ELECTRICIAN",
+    "company": "VERTATEL INTERNATIONAL S.R.L.",
     "location": [
-      "Cluj-Napoca",
+      "MAGURELE",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T12:48:04Z",
-    "status": "tested",
-    "tags": [
-      "Sisteme embedded",
-      "Microcontrolori"
-    ],
-    "matchPercentage": 72,
-    "reason": "Poziție de working student cu sarcini embedded, nivel ideal pentru un student, dar orientată spre ADAS auto."
-  },
-  {
-    "url": "https://8ore.ro/locuri-de-munca/tehnician-programare-cad-cam-cnc-belciugatele",
-    "title": "TEHNICIAN PROGRAMARE (CAD/CAM/CNC) - Belciugatele",
-    "company": "RECRUITMENT MARATHON S.R.L.",
-    "location": [
-      "Belciugatele",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T13:32:36Z",
-    "status": "tested",
-    "tags": [
-      "CAD/CAM",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 70,
-    "reason": "Post junior de programare CAD/CAM/CNC care folosește direct proiectarea CAD și interpretarea desenelor tehnice, deși e în producție de matrițe, nu medicală."
-  },
-  {
-    "url": "https://apply.workable.com/j/93AABAA821",
-    "title": "Embedded C Software Engineer | Aviation",
-    "company": "GARMIN CLUJ SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-26T15:58:59.145Z",
+    "date": "2026-11-27T16:23:16Z",
     "status": "scraped",
     "tags": [
-      "Sisteme embedded",
-      "Microcontrolori"
+      "Instalații electrice",
+      "Circuite electronice"
     ],
-    "matchPercentage": 70,
-    "reason": "Dezvoltare embedded C care folosește direct competențele de sisteme embedded și microcontrolori, dar în aviație, nu în domeniul medical; nivelul este entry/mid."
+    "matchPercentage": 65,
+    "reason": "Poziție entry-level de inginer electrician care valorifică parțial competențele de instalații electrice, deși nu vizează echipamente medicale."
   },
   {
-    "url": "https://www.targuldecariere.ro/companii/schaeffler/18651/embedded-software-eng",
-    "title": "Embedded Software Eng.",
-    "company": "SCHAEFFLER ROMANIA SRL",
+    "url": "https://8ore.ro/locuri-de-munca/electrician-instalatii-electrice-si-mentenanta",
+    "title": "Electrician- Instalatii electrice si mentenanta",
+    "company": "ABC HUMAN CAPITAL SRL",
     "location": [
-      "Brașov",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T14:40:24Z",
+    "date": "2026-11-17T14:54:40Z",
     "status": "tested",
     "tags": [
-      "Sisteme embedded",
-      "Microcontrolori"
+      "instalații electrice",
+      "iluminat"
     ],
-    "matchPercentage": 70,
-    "reason": "Rol de embedded software engineering care valorifică direct competențele de sisteme embedded, aplicat în industria auto, la nivel junior/mid."
+    "matchPercentage": 65,
+    "reason": "Cablarea, montarea aparatajului și a sistemelor de iluminat folosesc direct competențele de instalații electrice, însă fără componenta medicală."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3428607",
@@ -119,170 +66,26 @@
     "status": "verified",
     "tags": [
       "monitorizare",
-      "instrumentație virtuală"
+      "instrumentație"
     ],
-    "matchPercentage": 70,
-    "reason": "Operator dispecer pe sisteme de monitorizare și aparatură de control, cu sub 3 ani experiență, folosește direct cunoștințe de monitorizare și instrumentație."
+    "matchPercentage": 65,
+    "reason": "Operarea echipamentelor și aparaturii de monitorizare și control folosește parțial competențele de instrumentație și monitorizare, iar nivelul cere mai puțin de 3 ani experiență."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162476972-working-student-production-maintenance",
-    "title": "Working Student - Production Maintenance",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162663639-working-student-claims-management",
+    "title": "Working Student Claims Management",
     "company": "ROBERT BOSCH SRL",
     "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-11-26T16:40:48.551Z",
+    "date": "2026-11-27T16:26:58.831Z",
     "status": "scraped",
     "tags": [
-      "testare",
-      "instalații electrice"
-    ],
-    "matchPercentage": 68,
-    "reason": "Inspecțiile tehnice, etanșeitatea și siguranța electrică folosesc competențe de testare, dar în mentenanță industrială auto, nu medicală."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3456700",
-    "title": "INGINER ELECTRICIAN",
-    "company": "VERTATEL INTERNATIONAL S.R.L.",
-    "location": [
-      "MAGURELE",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-26T16:37:54Z",
-    "status": "scraped",
-    "tags": [
-      "Instalații electrice",
-      "Electronică"
+      "Testare",
+      "Materiale"
     ],
     "matchPercentage": 65,
-    "reason": "Poziție de inginer electrician fără experiență, domeniu electric care se suprapune parțial cu competențele de instalații electrice și electronică."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3447050",
-    "title": "INGINER ELECTRICIAN",
-    "company": "VERTATEL INTERNATIONAL S.R.L.",
-    "location": [
-      "MAGURELE",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-26T16:37:54Z",
-    "status": "scraped",
-    "tags": [
-      "Instalații electrice",
-      "Electronică"
-    ],
-    "matchPercentage": 65,
-    "reason": "Poziție de inginer electrician fără experiență, domeniu electric care se suprapune parțial cu competențele de instalații electrice și electronică."
-  },
-  {
-    "url": "https://8ore.ro/locuri-de-munca/programator-cad-cam",
-    "title": "Programator CAD/CAM",
-    "company": "DYNAMIC DESIGN EUROPE RO S.R.L.",
-    "location": [
-      "Belciugatele",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T08:26:38Z",
-    "status": "tested",
-    "tags": [
-      "CAD/CAM",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 65,
-    "reason": "Programator CAD/CAM în producție industrială, cu competențe directe de proiectare asistată, deși nu e domeniu medical."
-  },
-  {
-    "url": "https://jobs.rinf.tech/240537",
-    "title": "Embedded Security Firmware Engineer",
-    "company": "RINF OUTSOURCING SOLUTIONS SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T13:26:28Z",
-    "status": "tested",
-    "tags": [
-      "Sisteme embedded",
-      "Microcontrolori"
-    ],
-    "matchPercentage": 65,
-    "reason": "Firmware-ul embedded se potrivește parțial cu competențele tale, dar specializarea în securitate nu face parte din domeniul tău."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3343191",
-    "title": "INGINER ELECTROTEHNIST",
-    "company": "GERVIS SA",
-    "location": [
-      "SCHEIA",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "tested",
-    "tags": [
-      "instalații electrice",
-      "documentare"
-    ],
-    "matchPercentage": 65,
-    "reason": "Proiectarea și documentarea instalațiilor electrice se suprapun parțial peste competențe, dar fără aplicare medicală."
-  },
-  {
-    "url": "https://multijobs.ro/job/asam-angajeaza-inginer-proiectant-solidworks/3731",
-    "title": "ASAM angajeaza inginer proiectant Solidworks",
-    "company": "ASAM SA",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:49:35Z",
-    "status": "tested",
-    "tags": [
-      "CAD",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 62,
-    "reason": "Inginer proiectant SolidWorks folosește direct modelarea CAD și desenul tehnic, în industria auto, nu cea medicală."
-  },
-  {
-    "url": "https://jobs.rinf.tech/240516",
-    "title": "Embedded Software Developer for Cryptography Testing",
-    "company": "RINF OUTSOURCING SOLUTIONS SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T13:26:28Z",
-    "status": "tested",
-    "tags": [
-      "Sisteme embedded",
-      "Microcontrolori"
-    ],
-    "matchPercentage": 62,
-    "reason": "Dezvoltarea embedded se potrivește parțial, însă testarea criptografiei nu corespunde testării aparaturii medicale."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030-working-student-deep-learning-data-science",
-    "title": "Working student Deep Learning &amp; Data Science",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-26T16:40:48.551Z",
-    "status": "scraped",
-    "tags": [
-      "Python",
-      "procesare semnale"
-    ],
-    "matchPercentage": 62,
-    "reason": "Folosește Python și procesarea semnalelor/imaginilor, dar pe date auto ADAS, nu pe aplicații medicale."
+    "reason": "Selecția și optimizarea metodelor de testare, a materialelor și a dispozitivelor de măsurare se potrivesc parțial, iar nivelul working student este adecvat."
   }
 ]
